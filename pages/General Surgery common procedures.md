@@ -1,0 +1,163 @@
+
+
+- # Common Procedures in General Surgery
+	- ## [[Gastrointestinal]] — Upper GI
+		- **[[Appendicectomy]]** (open or laparoscopic) — definitive treatment of [[acute appendicitis]]
+			- Source: The Guide - Surgery p. 17
+		- **[[Ramstedt's Pyloromyotomy]]** — for [[infantile hypertrophic pyloric stenosis]]
+			- Source: The Guide - Surgery p. 24
+		- **[[Gastrectomy]]**
+			- Subtotal gastrectomy (> 50% resected) + gastrojejunostomy — for [[gastric cancer]]
+			- **Bilroth I** — distal gastrectomy (< 50%) + gastroduodenostomy — for [[peptic ulcer disease]]
+			- **Bilroth II** — distal gastrectomy (< 50%) + gastrojejunostomy
+			- Partial gastrectomy — for bleeding [[gastric ulcer]] unresponsive to endoscopy
+			- Source: The Guide - Surgery p. 24
+		- **[[Gastrostomy]]** — for gastric antral polyp (polypectomy through gastrostomy)
+			- Source: The Guide - Surgery p. 24
+		- **Duodeno-duodenostomy / Gastroduodenostomy** — for [[duodenal atresia]] and [[annular pancreas]]
+			- Source: The Guide - Surgery p. 24
+		- **Vessel underrun** — for bleeding [[duodenal ulcer]]
+			- Source: The Guide - Surgery p. 57
+		- **Upper GI [[endoscopy]]** — diagnostic and therapeutic (injection of adrenaline, sclerosants, diathermy coagulation, biopsy)
+			- Source: The Guide - Surgery p. 56
+	- ## [[Gastrointestinal]] — Lower GI
+		- **[[Ladd's Operation]]** — for intestinal [[malrotation]]
+			- Source: The Guide - Surgery p. 24
+		- **Resection and end-to-end anastomosis** — for [[ileal atresia]]/stenosis, [[intussusception]] (when non-operative reduction fails)
+			- Source: The Guide - Surgery p. 24
+		- **Air/saline insufflation (pneumatic/hydrostatic reduction)** — non-operative treatment of [[intussusception]]
+			- Source: The Guide - Surgery p. 24
+		- **Operations for [[Hirschsprung's disease]]**
+			- Swenson's operation (rectosigmoidectomy)
+			- Duhamel operation (retro-rectal)
+			- Soave operation (endorectal)
+			- Source: The Guide - Surgery p. 24
+		- **[[Polypectomy]]** — via [[Colonoscopy]]
+			- Source: The Guide - Surgery p. 49
+		- **[[Colectomy]] and variants** — for [[colorectal cancer]] and [[polyposis syndromes]]
+			- Right / extended right hemicolectomy — caecal and right colon tumours
+			- Left hemicolectomy — left colon tumours
+			- Sigmoid colectomy — sigmoid colon tumours
+			- Anterior resection — upper and middle third rectal tumours
+			- Low anterior resection — middle third rectum
+			- [[Abdominoperineal resection]] (APR) — lower third rectum and anorectal cancers
+			- Source: The Guide - Surgery p. 52
+		- **Colectomy with ileorectal anastomosis** — for polyposis syndromes (risk of rectal carcinoma remains)
+			- Source: The Guide - Surgery p. 49
+		- **Restorative [[proctocolectomy]] with ileal pouch-anal anastomosis (IPAA)** — for [[FAP]] and [[ulcerative colitis]]
+			- Source: The Guide - Surgery p. 49
+		- **Total proctocolectomy + end [[ileostomy]]** — for FAP
+			- Source: The Guide - Surgery p. 49
+		- **Pan proctocolectomy + terminal ileostomy** — prevention in premalignant lesions
+			- Source: The Guide - Surgery p. 52
+		- **[[Colonoscopy]]** — diagnostic (biopsy) and therapeutic (polypectomy, stenting)
+			- Source: The Guide - Surgery pp. 49, 51, 56
+		- **Defunctioning [[colostomy]]** — for obstructing or unresectable tumours; first stage in anorectal malformation repair
+			- Source: The Guide - Surgery pp. 24, 52
+	- ## [[Anorectal]]
+		- **[[Anoplasty]]** — for low-type [[anorectal malformation]]
+			- Source: The Guide - Surgery p. 24
+		- **Posterior sagittal anorectoplasty ([[PSARP]] / Pena's operation)** — for intermediate and high anorectal malformations (2nd stage, at 4–6 months / 10 kg)
+			- Source: The Guide - Surgery p. 24
+		- **Lateral internal [[sphincterotomy]]** — for chronic [[anal fissure]] (when conservative treatment fails)
+			- Source: The Guide - Surgery p. 59
+		- **Anal advancement flap** — for chronic anal fissure
+			- Source: The Guide - Surgery p. 59
+		- **[[Haemorrhoidectomy]]** — for [[haemorrhoids]]
+	- ## [[Hepatobiliary]] and [[Pancreatic]]
+		- **[[Cholecystectomy]]** (open or laparoscopic) — for symptomatic [[gallstones]], [[acute cholecystitis]]
+			- Early cholecystectomy (within 72 hrs) if conservative fails
+			- Interval/delayed cholecystectomy (6 weeks after acute episode)
+			- Source: The Guide - Surgery p. 48
+		- **[[Choledocholithotomy]]** — surgical removal of [[CBD stones]]
+			- Source: The Guide - Surgery p. 43
+		- **CBD exploration + [[T-tube]] drainage** — for cholangitis with persisting symptoms
+			- Source: The Guide - Surgery p. 48
+		- **[[ERCP]] + sphincterotomy + stone retrieval** — endoscopic treatment of [[choledocholithiasis]]
+			- Source: The Guide - Surgery pp. 42–43
+		- **[[Whipple's operation]] (Pancreaticoduodenectomy)** — for resectable [[cancer of the head of pancreas]]
+			- Source: The Guide - Surgery p. 43
+		- **Biliary bypass procedures** — palliative, for unresectable periampullary/pancreatic cancer
+			- Single bypass: choledochojejunostomy OR cholecystojejunostomy
+			- Double bypass: cholecystojejunostomy + gastrojejunostomy (if gastric outlet obstruction)
+			- Triple bypass: + jejunojejunostomy (Roux-en-Y to prevent bile reflux)
+			- Source: The Guide - Surgery p. 43
+		- **Hepaticojejunostomy** — palliative for extrahepatic biliary cancer
+			- Source: The Guide - Surgery p. 48
+		- **Roux-en-Y jejunal drainage** — for extrahepatic biliary cancer, bile drainage
+			- Source: The Guide - Surgery p. 48
+	- ## [[Hernia]] Repair
+		- **[[Herniotomy]]** — excision of sac alone (children)
+			- Source: The Guide - Surgery p. 29
+		- **[[Herniorrhaphy]]** — excision of sac + repair of posterior wall (adults)
+			- Source: The Guide - Surgery p. 29
+		- **Tissue-based repairs** (open): Bassini, modified Bassini, Shouldice, Tanner, MacVay's
+			- Source: The Guide - Surgery p. 29
+		- **Prosthetic mesh repair**: [[Lichtenstein repair]] (tension-free), inlay, onlay, sublay
+			- Source: The Guide - Surgery p. 29
+		- **Laparoscopic hernia repair**: [[TAPP]] (Transabdominal Preperitoneal), [[TEP]] (Totally Extraperitoneal)
+			- Source: The Guide - Surgery p. 29
+		- **Femoral hernia repair**
+			- Low approach of Lockwood (non-obstructed)
+			- High approach of Lotheissen
+			- McEverdy approach
+			- Source: The Guide - Surgery p. 29
+		- **[[Mayo's overlapping operation]]** — for [[paraumbilical hernia]]
+			- Source: The Guide - Surgery p. 29
+		- **Mesh repair** — preferred for [[incisional hernia]]
+			- Source: The Guide - Surgery p. 29
+	- ## [[Thyroid]] Surgery
+		- **Total [[thyroidectomy]]** — removal of entire gland (for malignancy, Graves' disease)
+			- Source: The Guide - Surgery p. 34
+		- **Subtotal thyroidectomy** — leaves 1/8th of gland (equivalent to patient's thumb)
+			- Source: The Guide - Surgery p. 34
+		- **Near-total thyroidectomy** — removal of whole of 1 lobe + part of 2nd lobe + isthmus
+			- Source: The Guide - Surgery p. 34
+		- **Completion thyroidectomy** — if initial was subtotal and histology shows malignancy
+			- Source: The Guide - Surgery p. 35
+	- ## [[Breast]] Surgery
+		- **[[Lumpectomy]]** (breast-conserving surgery) + radiotherapy — for early [[breast cancer]] (stage I/II)
+			- Source: The Guide - Surgery p. 39
+		- **Simple [[mastectomy]] + axillary staging** — if no clinical palpable nodes
+			- Source: The Guide - Surgery p. 39
+		- **Simple mastectomy + [[axillary dissection]]** — if positive clinical palpable nodes
+			- Source: The Guide - Surgery p. 39
+		- **Excision biopsy** — for [[fibroadenoma]], [[traumatic fat necrosis]]
+			- Source: The Guide - Surgery p. 39
+		- **[[Incision and drainage]]** — for [[breast abscess]]
+			- Source: The Guide - Surgery p. 39
+	- ## [[Urology]]
+		- **Urethral catheterisation** — initial management of [[acute urinary retention]]
+			- Source: The Guide - Surgery p. 61
+		- **Suprapubic catheterisation / [[cystostomy]]** — if urethral catheterisation fails
+			- Source: The Guide - Surgery p. 61
+		- **[[Prostatectomy]]** — definitive treatment of [[BPH]] causing retention
+			- Source: The Guide - Surgery p. 61
+		- **[[Urethroplasty]]** — surgical reconstruction for [[urethral stricture]]
+			- Source: The Guide - Surgery p. 62
+		- **Urethral dilatation** — minimally invasive for urethral stricture
+			- Source: The Guide - Surgery p. 62
+		- **Direct visual internal [[urethrotomy]] (DVIU)** — for urethral stricture
+			- Source: The Guide - Surgery p. 62
+	- ## [[GI Haemorrhage]] — Interventional
+		- **Endoscopic haemostasis** — injection (adrenaline, sclerosants), diathermy coagulation, variceal banding
+			- Source: The Guide - Surgery p. 56–57
+		- **[[Sengstaken-Blakemore tube]]** — tamponade for active variceal bleeding
+			- Source: The Guide - Surgery p. 57
+		- **[[TIPS]] (Transjugular Intrahepatic Portosystemic Shunt)** — for portal hypertension in variceal bleeding
+			- Source: The Guide - Surgery p. 57
+		- **Selective angiography + embolisation** — for bleeding vessels
+			- Source: The Guide - Surgery p. 56
+	- ## General / Cross-cutting Procedures
+		- **[[Incision and drainage]]** — for any [[abscess]] (appendiceal, breast, perianal, etc.)
+			- Source: The Guide - Surgery pp. 18, 39
+		- **[[Exploratory laparotomy]]** — for [[acute abdomen]], [[typhoid perforation]], trauma
+			- Source: The Guide - Surgery pp. 11, 14
+		- **Peritoneal lavage** — diagnostic in trauma; therapeutic in peritonitis
+			- Source: The Guide - Surgery p. 13
+		- **[[Tracheostomy]]** — for airway management (bilateral RLN palsy post-thyroidectomy, prolonged intubation)
+			- Source: The Guide - Surgery p. 36
+		- **[[Wound debridement]] and closure** — for traumatic wounds
+			- Source: S0/Wounds and Wound Healing.ppt
+		- **[[Suturing]] and ligatures** — fundamental surgical skill
+			- Source: S0/Principles of Sutures and Ligatures.pptx
