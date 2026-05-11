@@ -1,0 +1,524 @@
+{:blocks (
+{:block/created-at 1747500000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "text"
+:id "8a7b1000-0000-4000-8000-000000000900"
+:parentId "8a7b1000-0000-4000-8000-000000000001"
+:point [80 20]
+:size [520 50]
+:index 1000
+:scale [1 1]
+:scaleLevel "xl"
+:stroke ""
+:fill ""
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:padding 4
+:fontWeight 700
+:noFill true
+:lineHeight 1.2
+:fontSize 28
+:italic false
+:text "Pathological continuum of sepsis"
+:nonce 1747500000000}}
+:block/updated-at 1747500000000}
+{:block/created-at 1747500000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box"
+:id "8a7b1000-0000-4000-8000-000000000100"
+:parentId "8a7b1000-0000-4000-8000-000000000001"
+:point [200 120]
+:size [280 70]
+:index 1
+:scale [1 1]
+:scaleLevel "md"
+:stroke "#2b6cb0"
+:fill "#ebf8ff"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:borderRadius 4
+:noFill false
+:label "Colonization\n\nAsymptomatic carriage on host surface"
+:fontSize 16
+:fontWeight 600
+:italic false
+:nonce 1747500000000}}
+:block/updated-at 1747500000000}
+{:block/created-at 1747500000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "line"
+:id "8a7b1000-0000-4000-8000-000000000300"
+:parentId "8a7b1000-0000-4000-8000-000000000001"
+:point [340 190]
+:index 100
+:scale [1 1]
+:scaleLevel "sm"
+:stroke "#4a5568"
+:fill ""
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:noFill true
+:label "invasion"
+:fontSize 13
+:fontWeight 500
+:italic true
+:handles
+{:start
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId nil}
+:end
+{:id "end"
+:canBind true
+:point [0 100]
+:bindingId nil}}
+:decorations
+{:end "arrow"}
+:nonce 1747500000000}}
+:block/updated-at 1747500000000}
+{:block/created-at 1747500000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box"
+:id "8a7b1000-0000-4000-8000-000000000101"
+:parentId "8a7b1000-0000-4000-8000-000000000001"
+:point [200 290]
+:size [280 70]
+:index 2
+:scale [1 1]
+:scaleLevel "md"
+:stroke "#2b6cb0"
+:fill "#ebf8ff"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:borderRadius 4
+:noFill false
+:label "Inflammation (local)\n\nTissue response to invasion: rubor, calor, tumor, dolor, functio laesa"
+:fontSize 16
+:fontWeight 600
+:italic false
+:nonce 1747500000000}}
+:block/updated-at 1747500000000}
+{:block/created-at 1747500000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "line"
+:id "8a7b1000-0000-4000-8000-000000000301"
+:parentId "8a7b1000-0000-4000-8000-000000000001"
+:point [340 360]
+:index 101
+:scale [1 1]
+:scaleLevel "sm"
+:stroke "#4a5568"
+:fill ""
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:noFill true
+:label "→ bloodstream (transient)"
+:fontSize 13
+:fontWeight 500
+:italic true
+:handles
+{:start
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId nil}
+:end
+{:id "end"
+:canBind true
+:point [0 100]
+:bindingId nil}}
+:decorations
+{:end "arrow"}
+:nonce 1747500000000}}
+:block/updated-at 1747500000000}
+{:block/created-at 1747500000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box"
+:id "8a7b1000-0000-4000-8000-000000000102"
+:parentId "8a7b1000-0000-4000-8000-000000000001"
+:point [200 460]
+:size [280 70]
+:index 3
+:scale [1 1]
+:scaleLevel "md"
+:stroke "#2b6cb0"
+:fill "#ebf8ff"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:borderRadius 4
+:noFill false
+:label "Bacteraemia\n\nTransient bacteria in blood / lymphatics — usually asymptomatic"
+:fontSize 16
+:fontWeight 600
+:italic false
+:nonce 1747500000000}}
+:block/updated-at 1747500000000}
+{:block/created-at 1747500000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "line"
+:id "8a7b1000-0000-4000-8000-000000000302"
+:parentId "8a7b1000-0000-4000-8000-000000000001"
+:point [340 530]
+:index 102
+:scale [1 1]
+:scaleLevel "sm"
+:stroke "#4a5568"
+:fill ""
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:noFill true
+:label "sustained + reaction"
+:fontSize 13
+:fontWeight 500
+:italic true
+:handles
+{:start
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId nil}
+:end
+{:id "end"
+:canBind true
+:point [0 100]
+:bindingId nil}}
+:decorations
+{:end "arrow"}
+:nonce 1747500000000}}
+:block/updated-at 1747500000000}
+{:block/created-at 1747500000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box"
+:id "8a7b1000-0000-4000-8000-000000000103"
+:parentId "8a7b1000-0000-4000-8000-000000000001"
+:point [200 630]
+:size [280 70]
+:index 4
+:scale [1 1]
+:scaleLevel "md"
+:stroke "#2b6cb0"
+:fill "#ebf8ff"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:borderRadius 4
+:noFill false
+:label "Septicaemia\n\nSustained bacteria in blood + severe systemic reaction"
+:fontSize 16
+:fontWeight 600
+:italic false
+:nonce 1747500000000}}
+:block/updated-at 1747500000000}
+{:block/created-at 1747500000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "line"
+:id "8a7b1000-0000-4000-8000-000000000303"
+:parentId "8a7b1000-0000-4000-8000-000000000001"
+:point [340 700]
+:index 103
+:scale [1 1]
+:scaleLevel "sm"
+:stroke "#4a5568"
+:fill ""
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:noFill true
+:label "+ ≥2 SIRS criteria"
+:fontSize 13
+:fontWeight 500
+:italic true
+:handles
+{:start
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId nil}
+:end
+{:id "end"
+:canBind true
+:point [0 100]
+:bindingId nil}}
+:decorations
+{:end "arrow"}
+:nonce 1747500000000}}
+:block/updated-at 1747500000000}
+{:block/created-at 1747500000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box"
+:id "8a7b1000-0000-4000-8000-000000000104"
+:parentId "8a7b1000-0000-4000-8000-000000000001"
+:point [200 800]
+:size [280 70]
+:index 5
+:scale [1 1]
+:scaleLevel "md"
+:stroke "#2b6cb0"
+:fill "#ebf8ff"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:borderRadius 4
+:noFill false
+:label "Sepsis\n\nSIRS + infection (life-threatening organ dysfunction from dysregulated host response)"
+:fontSize 16
+:fontWeight 600
+:italic false
+:nonce 1747500000000}}
+:block/updated-at 1747500000000}
+{:block/created-at 1747500000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "line"
+:id "8a7b1000-0000-4000-8000-000000000304"
+:parentId "8a7b1000-0000-4000-8000-000000000001"
+:point [340 870]
+:index 104
+:scale [1 1]
+:scaleLevel "sm"
+:stroke "#4a5568"
+:fill ""
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:noFill true
+:label "+ organ dysfunction"
+:fontSize 13
+:fontWeight 500
+:italic true
+:handles
+{:start
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId nil}
+:end
+{:id "end"
+:canBind true
+:point [0 100]
+:bindingId nil}}
+:decorations
+{:end "arrow"}
+:nonce 1747500000000}}
+:block/updated-at 1747500000000}
+{:block/created-at 1747500000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box"
+:id "8a7b1000-0000-4000-8000-000000000105"
+:parentId "8a7b1000-0000-4000-8000-000000000001"
+:point [200 970]
+:size [280 70]
+:index 6
+:scale [1 1]
+:scaleLevel "md"
+:stroke "#2b6cb0"
+:fill "#ebf8ff"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:borderRadius 4
+:noFill false
+:label "Severe sepsis\n\nSepsis + organ dysfunction (renal, hepatic, cerebral, etc.)"
+:fontSize 16
+:fontWeight 600
+:italic false
+:nonce 1747500000000}}
+:block/updated-at 1747500000000}
+{:block/created-at 1747500000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "line"
+:id "8a7b1000-0000-4000-8000-000000000305"
+:parentId "8a7b1000-0000-4000-8000-000000000001"
+:point [340 1040]
+:index 105
+:scale [1 1]
+:scaleLevel "sm"
+:stroke "#4a5568"
+:fill ""
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:noFill true
+:label "+ refractory hypotension"
+:fontSize 13
+:fontWeight 500
+:italic true
+:handles
+{:start
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId nil}
+:end
+{:id "end"
+:canBind true
+:point [0 100]
+:bindingId nil}}
+:decorations
+{:end "arrow"}
+:nonce 1747500000000}}
+:block/updated-at 1747500000000}
+{:block/created-at 1747500000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box"
+:id "8a7b1000-0000-4000-8000-000000000106"
+:parentId "8a7b1000-0000-4000-8000-000000000001"
+:point [200 1140]
+:size [280 70]
+:index 7
+:scale [1 1]
+:scaleLevel "md"
+:stroke "#2b6cb0"
+:fill "#ebf8ff"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:borderRadius 4
+:noFill false
+:label "Septic shock\n\nSevere sepsis + refractory hypotension (inotrope-dependent)"
+:fontSize 16
+:fontWeight 600
+:italic false
+:nonce 1747500000000}}
+:block/updated-at 1747500000000}
+{:block/created-at 1747500000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "line"
+:id "8a7b1000-0000-4000-8000-000000000306"
+:parentId "8a7b1000-0000-4000-8000-000000000001"
+:point [340 1210]
+:index 106
+:scale [1 1]
+:scaleLevel "sm"
+:stroke "#4a5568"
+:fill ""
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:noFill true
+:label "multi-organ failure"
+:fontSize 13
+:fontWeight 500
+:italic true
+:handles
+{:start
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId nil}
+:end
+{:id "end"
+:canBind true
+:point [0 100]
+:bindingId nil}}
+:decorations
+{:end "arrow"}
+:nonce 1747500000000}}
+:block/updated-at 1747500000000}
+{:block/created-at 1747500000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box"
+:id "8a7b1000-0000-4000-8000-000000000107"
+:parentId "8a7b1000-0000-4000-8000-000000000001"
+:point [200 1310]
+:size [280 70]
+:index 8
+:scale [1 1]
+:scaleLevel "md"
+:stroke "#2b6cb0"
+:fill "#ebf8ff"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:borderRadius 4
+:noFill false
+:label "MODS\n\nMultiple Organ Dysfunction Syndrome — pre-terminal"
+:fontSize 16
+:fontWeight 600
+:italic false
+:nonce 1747500000000}}
+:block/updated-at 1747500000000}
+{:block/created-at 1747500000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box"
+:id "8a7b1000-0000-4000-8000-000000000901"
+:parentId "8a7b1000-0000-4000-8000-000000000001"
+:point [560 800]
+:size [320 130]
+:index 500
+:scale [1 1]
+:scaleLevel "sm"
+:stroke "#c05621"
+:fill "#fffaf0"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:borderRadius 4
+:noFill false
+:label "SIRS — ≥2 of:\nT >38 or <36 °C\nHR >90 /min\nRR >20 or PaCO2 <32\nWBC >12k, <4k, or >10% bands"
+:fontSize 13
+:fontWeight 500
+:italic false
+:nonce 1747500000000}}
+:block/updated-at 1747500000000}
+)
+:pages (
+{:block/uuid #uuid "8a7b1000-0000-4000-8000-000000000001"
+:block/properties
+{:ls-type :whiteboard-page
+:logseq.tldraw.page
+{:id "8a7b1000-0000-4000-8000-000000000001"
+:name "Pathological continuum of sepsis"
+:bindings {}
+:nonce 0
+:assets []
+:shapes-index ("8a7b1000-0000-4000-8000-000000000900" "8a7b1000-0000-4000-8000-000000000100" "8a7b1000-0000-4000-8000-000000000300" "8a7b1000-0000-4000-8000-000000000101" "8a7b1000-0000-4000-8000-000000000301" "8a7b1000-0000-4000-8000-000000000102" "8a7b1000-0000-4000-8000-000000000302" "8a7b1000-0000-4000-8000-000000000103" "8a7b1000-0000-4000-8000-000000000303" "8a7b1000-0000-4000-8000-000000000104" "8a7b1000-0000-4000-8000-000000000304" "8a7b1000-0000-4000-8000-000000000105" "8a7b1000-0000-4000-8000-000000000305" "8a7b1000-0000-4000-8000-000000000106" "8a7b1000-0000-4000-8000-000000000306" "8a7b1000-0000-4000-8000-000000000107" "8a7b1000-0000-4000-8000-000000000901")}}
+:block/journal? false
+:block/updated-at 1747500000000
+:block/created-at 1747500000000
+:block/type "whiteboard"
+:block/name "Pathological continuum of sepsis"
+:block/original-name "Pathological continuum of sepsis"})}
+

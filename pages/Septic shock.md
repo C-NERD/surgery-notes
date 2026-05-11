@@ -1,0 +1,34 @@
+
+- # Septic shock
+	- **Shock resulting from moderate to severe sepsis or tissue damage — the progression of SIRS to circulatory failure.** Diagnosed when a patient with severe sepsis **does not respond to adequate fluid challenge** and is **dependent on inotropes** to maintain blood pressure.
+		- **Equation**: Severe sepsis + refractory hypotension = Septic shock
+		- Source: Baja Ch. 8 p. 102
+	- ## Causative organisms
+		- **Gram-negative bacteria** — ~2/3 of cases. Commonest is *E. coli*; also *Klebsiella, Enterobacter, Serratia, Proteus mirabilis/vulgaris, Pseudomonas, Bacteroides*.
+		- **Gram-positive bacteria** — ~1/3 of cases. Streptococci, Staphylococci, Clostridia, Pneumococci.
+		- **Viruses, fungi, parasites** — few cases.
+		- Source: Baja Ch. 8 p. 102
+	- ## Predisposing conditions (Baja Table 8-2)
+		- Skin and soft-tissue infection
+		- Acute pancreatitis
+		- Gangrene
+		- Immunosuppression (steroids, chemotherapy, HIV)
+		- Agranulocytosis, leukaemia
+		- Carcinoma
+		- Source: Baja Ch. 8 p. 102
+	- ## Pathogenesis — essentials
+		- Microbial **PAMPs** (Gram-ve LPS / endotoxin; Gram+ve lipoteichoic acid & peptidoglycan; viral dsRNA) ligate **Toll-like receptors** on macrophages, neutrophils, lymphocytes, endothelial cells.
+		- Activation of **NF-κB** transcription factor → release of pro-inflammatory cytokines:
+			- **TNF-α** within 1–2 h
+			- **IL-1β** within 2–3 h
+		- Effects on the host:
+			- Damage to vascular endothelium
+			- Vasodilation of the microcirculation, peripheral pooling, ↑ permeability with fluid extravasation
+			- ↓ force of cardiac contraction
+			- Activation of neutrophils, complement, coagulation cascade → DIC
+		- Counter-regulation by **IL-10 (aided by IL-4)** from ~8–10 h dampens the pro-inflammatory cascade. When this response is overwhelmed or dysregulated, cytokine release is excessive and self-sustaining → shock.
+		- Source: Baja Ch. 8 p. 102 (Table 8-3 — full cascade is a future whiteboard candidate)
+	- ## Outcome
+		- May progress to **[[Multiple Organ Dysfunction Syndrome|MODS]]** as organ systems fail sequentially.
+		- Source: Baja Ch. 8 p. 103
+	- Related: [[Shock]], [[Sepsis]], [[Severe sepsis]], [[Systemic Inflammatory Response Syndrome]], [[Septicaemia]], [[Bacteraemia]]

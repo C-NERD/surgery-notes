@@ -1,0 +1,115 @@
+
+- # Ulcer
+	- **Definition** — an ulcer is the **loss of continuity of an epithelium** (internal or external), usually following a **gradual cell-by-cell death** of the constituent cells.
+		- Source: Baja Ch. 6 p. 72
+	- ## Parts of an ulcer (the classical examination framework)
+		- **Edge** — where the healthy skin (epithelium) begins; the margin in profile or cross-section.
+		- **Floor** — what is **seen** (the visible surface of the ulcer crater).
+		- **Base** — what is **palpated** (the tissue underneath; soft / indurated / hard).
+		- **Discharge** — character (serous, purulent, sero-sanguinous), volume, odour.
+		- **Surrounding skin** — pigmentation, eczema, lipodermatosclerosis, varicosities, sensation.
+		- **Regional lymph nodes** — enlargement, tenderness, fixity.
+		- Source: Baja Ch. 6 pp. 72–73
+	- ## Edge types (mapped to ulcer type — Baja Fig 6-1)
+		- *Sloping* → **non-specific ulcer** (healing)
+		- *Undermined* (thin, blue, probe-able) → **tuberculous ulcer**
+		- *Punched-out* (perpendicular walls) → **syphilitic / diabetic neuropathic ulcer**
+		- *Raised + everted* (with nodular floor, indurated base) → **malignant ulcer** (e.g. SCC, Marjolin's)
+		- *Rolled* → **rodent ulcer** (basal cell carcinoma)
+		- Source: Baja Ch. 6 p. 73
+	- ## Classification of ulcers — Baja Table 6-1
+		- ### A. Specific ulcers (specific organism)
+			- Tuberculous ulcers — *M. tuberculosis*
+			- Buruli ulcers — *M. ulcerans* (toxin: mycolactone)
+			- Syphilitic ulcers — *T. pallidum*
+			- Yaws ulcers — *T. pertenue*
+			- Mycobacterium leprae ulcers
+		- ### B. Non-specific ulcers (commonest group)
+			- *Traumatic*
+			- *Pyogenic / infective* (follows abscess, carbuncle, cellulitis)
+			- *Vascular origin*
+				- Venous (gravitational)
+				- Arterial (ischaemic)
+				- Decubitus (pressure)
+				- Pressure sores
+			- *Neurotropic (trophic)*
+				- Leprosy
+				- Diabetic neuropathy
+				- Spinal cord lesions
+				- Peripheral neuropathies
+				- Syringomyelia
+			- *Metabolic / systemic disease*
+				- Diabetic ulcers
+				- Haemoglobinopathic (sickle cell)
+				- Hereditary spherocytosis
+				- Ulcerative colitis
+		- ### C. Neoplastic ulcers
+			- Squamous cell carcinoma
+			- Rodent ulcer (basal cell carcinoma)
+			- Malignant melanoma
+			- Kaposi's sarcoma
+			- Penetrating malignant tumour
+			- **Marjolin's ulcer** — SCC arising in a chronic ulcer or burn scar
+		- Source: Baja Ch. 6 p. 72, Table 6-1
+	- ## Clerking an ulcer
+		- ### History (following the [[History Taking|standard surgical history]] framework, with ulcer-specific points)
+			- **Site** — where on the body; over a bony prominence? near medial malleolus? sole of foot?
+			- **Duration** — when first noticed.
+			- **Mode of onset** — spontaneous, post-trauma, ruptured boil/abscess, after blister.
+			- **Progression** — increasing in size? changing shape? recurrent breakdown?
+			- **Pain** — present or painless? (painless → neurotropic / Buruli / leprosy; severe pain → arterial / acute pyogenic)
+			- **Discharge** — serous / purulent / blood-stained; volume; smell.
+			- **Past similar lesions** — recurrent? prior healing followed by breakdown?
+			- **Treatment so far** — dressings, antibiotics, traditional remedies, prior grafting.
+			- **Associated symptoms**: claudication, varicose veins, DVT, paraesthesia, anaesthesia, weight loss.
+			- **Past medical history**: diabetes, HIV, sickle cell, TB, syphilis, malignancy.
+			- **Social**: occupation (farmer, prolonged standing), footwear, exposure to wetlands (Buruli endemic).
+			- **Drug / immunisation**: tetanus status; steroids, chemotherapy.
+			- Source: Norman Browse Ch. 1 (history framework); Baja Ch. 6 (specific points across each ulcer type)
+		- ### Examination
+			- **Local — the ulcer itself** (use the **Parts of an ulcer** framework above)
+				- Site, size, shape, number, edge, floor, base, discharge.
+			- **Local — surrounding skin** — pigmentation, eczema, lipodermatosclerosis, varicosities, scars, sensation (light touch, pinprick).
+			- **Vascular exam** — peripheral pulses (femoral → DP / PT), capillary refill, skin temperature, hair distribution, nail changes.
+			- **Neurological exam** — sensation, motor function, deep-tendon reflexes (essential if neurotropic suspected).
+			- **Regional lymph nodes** — inguinal/popliteal for lower limb; axillary for upper limb.
+			- **General** — pallor, jaundice, lymphadenopathy elsewhere, evidence of TB / malignancy / sickle cell.
+			- Source: Baja Ch. 6 (composite — drawn from each ulcer's clinical features); Norman Browse Ch. 1
+	- ## Management — general principles (non-specific ulcer)
+		- ### A. Acute phase (Baja's 10-step framework)
+			- 1. **Admit** for bed rest with the **foot end of the bed elevated**.
+			- 2. **Wound swab** — Gram stain, culture & sensitivity.
+			- 3. **Empirical broad-spectrum antibiotics** while awaiting C&S; rationalise on results.
+			- 4. **Tetanus booster** (active immunisation).
+			- 5. **Saline cleansing** of the wound regularly; use **1% acetic acid** if Pseudomonas suspected.
+			- 6. **Crepe / compression bandage** from toes → knee — promotes lymphatic and venous drainage.
+			- 7. **Splint the limb in the position of function** to prevent contracture.
+			- 8. **Early physiotherapy** to prevent muscle wasting and contracture.
+			- 9. **Sloughectomy** — surgical excision of infected slough if present; alternative: saline soaks.
+			- 10. Once a healthy bed of **granulation tissue** has formed, **split-skin graft** for closure (do a final wound swab to exclude streptococcal infection before grafting).
+			- Source: Baja Ch. 6 p. 78
+		- ### B. Treat the underlying cause
+			- Venous ulcer → varicose-vein surgery, sustained compression therapy.
+			- Arterial ulcer → revascularisation (angioplasty / endarterectomy / bypass).
+			- Diabetic ulcer → tight glycaemic control + offloading + debridement.
+			- Pressure ulcer → relieve pressure, regular position change, optimise nutrition.
+			- Tuberculous ulcer → anti-TB chemotherapy (Ch. 2).
+			- Buruli → antibiotic regimen (rifampicin + streptomycin/clarithromycin) + excision + grafting.
+			- Malignant ulcer → wide local excision ± lymph-node clearance ± adjuvant therapy.
+			- Source: Baja Ch. 6 (composite, by type)
+		- ### C. Advice after discharge
+			- Foot hygiene.
+			- Continued pressure / compression dressing (toes → knee) where significant scarring remains.
+			- Protective footwear and clothing (especially farmers, agricultural workers).
+			- Prompt treatment of any new abrasion on the affected limb.
+			- Source: Baja Ch. 6 p. 78
+	- ## Complications of a chronic ulcer
+		- Lymphangitis, lymphadenitis
+		- Cellulitis, tetanus
+		- Wasting of the limb
+		- Lymphoedema (recurrent lymphangitis)
+		- Periostitis → new bone formation
+		- **Malignant change** (Marjolin's ulcer — SCC) in long-standing ulcers and unstable scars
+		- Deformity of foot or ankle (deep fibrosis)
+		- Source: Baja Ch. 6 p. 77
+	- Related: [[Wound]], [[History Taking]], [[Tuberculosis]], [[Buruli ulcer]], [[Venous ulcer]], [[Arterial ulcer]], [[Diabetic ulcer]], [[Pressure ulcer]], [[Marjolin's ulcer]], [[Squamous cell carcinoma]], [[Rodent ulcer]]

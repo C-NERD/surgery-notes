@@ -1,0 +1,13 @@
+
+- # Shock
+	- **The clinical manifestation of failure of cellular function due to inadequate tissue perfusion and consequent cellular hypoxia, resulting from a reduction in the effective circulating blood volume.**
+		- Source: Baja Ch. 8 p. 91
+	- **Pathophysiological essence**: oxygen delivery cannot meet tissue demand → cellular hypoxia → organ dysfunction.
+	- **Major types**:
+		- Hypovolaemic (incl. haemorrhagic) — commonest
+		- Septic (endotoxic) — see [[Sepsis]]
+		- Cardiogenic
+		- Neurogenic
+		- Anaphylactic
+		- Source: Baja Ch. 8 p. 91 (Fig. 8-1)
+	- Related: [[Sepsis]], [[Systemic Inflammatory Response Syndrome]], [[Septicaemia]]

@@ -1,0 +1,280 @@
+{:blocks (
+{:block/created-at 1747520000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "text"
+:id "8a7b1000-0000-4000-8000-000000002099"
+:parentId "8a7b1000-0000-4000-8000-000000000020"
+:point [460 20]
+:size [560 50]
+:index 1000
+:scale [1 1]
+:scaleLevel "xl"
+:stroke ""
+:fill ""
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:padding 4
+:fontWeight 700
+:noFill true
+:lineHeight 1.2
+:fontSize 28
+:italic false
+:text "Classification of ulcers (Baja Table 6-1)"
+:nonce 1747520000000}}
+:block/updated-at 1747520000000}
+{:block/created-at 1747520000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box"
+:id "8a7b1000-0000-4000-8000-000000002000"
+:parentId "8a7b1000-0000-4000-8000-000000000020"
+:point [600 90]
+:size [220 60]
+:index 1
+:scale [1 1]
+:scaleLevel "md"
+:stroke "#2d3748"
+:fill "#edf2f7"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:borderRadius 6
+:noFill false
+:label "ULCER\n(loss of continuity of epithelium)"
+:fontSize 15
+:fontWeight 700
+:italic false
+:nonce 1747520000000}}
+:block/updated-at 1747520000000}
+{:block/created-at 1747520000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box"
+:id "8a7b1000-0000-4000-8000-000000002001"
+:parentId "8a7b1000-0000-4000-8000-000000000020"
+:point [60 240]
+:size [380 240]
+:index 2
+:scale [1 1]
+:scaleLevel "md"
+:stroke "#c53030"
+:fill "#fff5f5"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:borderRadius 6
+:noFill false
+:label "A. SPECIFIC ULCERS\n(specific organism)\n\n• Tuberculous (M. tuberculosis)\n• Buruli (M. ulcerans)\n• Syphilitic (T. pallidum)\n• Yaws (T. pertenue)\n• Leprosy (M. leprae)"
+:fontSize 13
+:fontWeight 500
+:italic false
+:nonce 1747520000000}}
+:block/updated-at 1747520000000}
+{:block/created-at 1747520000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box"
+:id "8a7b1000-0000-4000-8000-000000002002"
+:parentId "8a7b1000-0000-4000-8000-000000000020"
+:point [490 240]
+:size [460 460]
+:index 3
+:scale [1 1]
+:scaleLevel "md"
+:stroke "#38a169"
+:fill "#f0fff4"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:borderRadius 6
+:noFill false
+:label "B. NON-SPECIFIC ULCERS\n(commonest group)\n\n• Traumatic\n• Pyogenic / infective\n\n• Vascular origin:\n   ─ Venous (gravitational)\n   ─ Arterial (ischaemic)\n   ─ Decubitus\n   ─ Pressure sores\n\n• Neurotropic (trophic):\n   ─ Leprosy\n   ─ Diabetic neuropathy\n   ─ Cord lesions\n   ─ Peripheral neuropathies\n   ─ Syringomyelia\n\n• Metabolic / systemic disease:\n   ─ Diabetic ulcers\n   ─ Haemoglobinopathic (sickle)\n   ─ Hereditary spherocytosis\n   ─ Ulcerative colitis"
+:fontSize 13
+:fontWeight 500
+:italic false
+:nonce 1747520000000}}
+:block/updated-at 1747520000000}
+{:block/created-at 1747520000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box"
+:id "8a7b1000-0000-4000-8000-000000002003"
+:parentId "8a7b1000-0000-4000-8000-000000000020"
+:point [980 240]
+:size [380 260]
+:index 4
+:scale [1 1]
+:scaleLevel "md"
+:stroke "#3182ce"
+:fill "#ebf8ff"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:borderRadius 6
+:noFill false
+:label "C. NEOPLASTIC ULCERS\n(tumour-derived)\n\n• Squamous cell carcinoma\n• Rodent ulcer (BCC)\n• Malignant melanoma\n• Kaposi's sarcoma\n• Penetrating malignant tumour\n\n▶ Marjolin's ulcer —\n  SCC arising in a chronic\n  ulcer or burn scar"
+:fontSize 13
+:fontWeight 500
+:italic false
+:nonce 1747520000000}}
+:block/updated-at 1747520000000}
+{:block/created-at 1747520000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "line"
+:id "8a7b1000-0000-4000-8000-000000002010"
+:parentId "8a7b1000-0000-4000-8000-000000000020"
+:point [710 150]
+:index 100
+:scale [1 1]
+:scaleLevel "sm"
+:stroke "#4a5568"
+:fill ""
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:noFill true
+:label ""
+:fontSize 12
+:fontWeight 500
+:italic true
+:handles
+{:start
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId nil}
+:end
+{:id "end"
+:canBind true
+:point [-460 90]
+:bindingId nil}}
+:decorations
+{:end "arrow"}
+:nonce 1747520000000}}
+:block/updated-at 1747520000000}
+{:block/created-at 1747520000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "line"
+:id "8a7b1000-0000-4000-8000-000000002011"
+:parentId "8a7b1000-0000-4000-8000-000000000020"
+:point [710 150]
+:index 100
+:scale [1 1]
+:scaleLevel "sm"
+:stroke "#4a5568"
+:fill ""
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:noFill true
+:label ""
+:fontSize 12
+:fontWeight 500
+:italic true
+:handles
+{:start
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId nil}
+:end
+{:id "end"
+:canBind true
+:point [10 90]
+:bindingId nil}}
+:decorations
+{:end "arrow"}
+:nonce 1747520000000}}
+:block/updated-at 1747520000000}
+{:block/created-at 1747520000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "line"
+:id "8a7b1000-0000-4000-8000-000000002012"
+:parentId "8a7b1000-0000-4000-8000-000000000020"
+:point [710 150]
+:index 100
+:scale [1 1]
+:scaleLevel "sm"
+:stroke "#4a5568"
+:fill ""
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:noFill true
+:label ""
+:fontSize 12
+:fontWeight 500
+:italic true
+:handles
+{:start
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId nil}
+:end
+{:id "end"
+:canBind true
+:point [460 90]
+:bindingId nil}}
+:decorations
+{:end "arrow"}
+:nonce 1747520000000}}
+:block/updated-at 1747520000000}
+{:block/created-at 1747520000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box"
+:id "8a7b1000-0000-4000-8000-000000002020"
+:parentId "8a7b1000-0000-4000-8000-000000000020"
+:point [980 540]
+:size [400 210]
+:index 5
+:scale [1 1]
+:scaleLevel "md"
+:stroke "#805ad5"
+:fill "#faf5ff"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:borderRadius 6
+:noFill false
+:label "EDGE TYPE → ULCER TYPE\n(Baja Fig 6-1)\n\nSloping     → non-specific (healing)\nUndermined  → tuberculous\nPunched-out → syphilitic / DM neurotropic\nRaised      → malignant (SCC, Marjolin's)\nRolled      → rodent (BCC)"
+:fontSize 13
+:fontWeight 500
+:italic false
+:nonce 1747520000000}}
+:block/updated-at 1747520000000}
+)
+:pages (
+{:block/uuid #uuid "8a7b1000-0000-4000-8000-000000000020"
+:block/properties
+{:ls-type :whiteboard-page
+:logseq.tldraw.page
+{:id "8a7b1000-0000-4000-8000-000000000020"
+:name "Ulcer classification tree"
+:bindings {}
+:nonce 0
+:assets []
+:shapes-index ("8a7b1000-0000-4000-8000-000000002099" "8a7b1000-0000-4000-8000-000000002000" "8a7b1000-0000-4000-8000-000000002001" "8a7b1000-0000-4000-8000-000000002002" "8a7b1000-0000-4000-8000-000000002003" "8a7b1000-0000-4000-8000-000000002010" "8a7b1000-0000-4000-8000-000000002011" "8a7b1000-0000-4000-8000-000000002012" "8a7b1000-0000-4000-8000-000000002020")}}
+:block/journal? false
+:block/updated-at 1747520000000
+:block/created-at 1747520000000
+:block/type "whiteboard"
+:block/name "Ulcer classification tree"
+:block/original-name "Ulcer classification tree"})}
+

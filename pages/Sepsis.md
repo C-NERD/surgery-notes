@@ -1,0 +1,12 @@
+
+- # Sepsis
+	- **Life-threatening organ dysfunction caused by a dysregulated host response to infection.** (Sepsis-3 consensus, 2016)
+		- Source: Baja Ch. 8 p. 100 (citing the newer proposed definition)
+	- **Older clinical equation** (ACCP/SCCM consensus 1991 — still widely taught):
+		- SIRS + Infection = **Sepsis**
+		- Sepsis + organ dysfunction = **Severe sepsis**
+		- Severe sepsis + refractory hypotension = **[[Septic shock]]**
+		- Source: Baja Ch. 8 p. 100
+	- **Causative organisms**: gram-negative bacteria 50–60%, gram-positive 35–40%, plus viral, fungal and protozoal causes.
+		- Source: Baja Ch. 8 p. 100
+	- Related: [[Systemic Inflammatory Response Syndrome]], [[Septicaemia]], [[Bacteraemia]], [[Septic shock]], [[Shock]]

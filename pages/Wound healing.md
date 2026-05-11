@@ -1,0 +1,82 @@
+
+- # Wound healing
+	- **Definition** — wound healing is the **replacement of damaged tissue by living tissue**. In man this is essentially fibrous tissue, because the powers of true regeneration have been lost in the evolutionary process.
+		- Source: Baja Ch. 5 p. 60
+	- ## Types of wound healing
+		- ### By tissue outcome (what replaces the lost tissue)
+			- **Resolution** — minimal injury; the end-result is essentially the same type of tissue, with no new tissue formed. *Examples*: blind boil that subsides, lobar pneumonia clearing.
+				- Source: Baja Ch. 5 p. 60
+			- **Regeneration** — lost specialised tissue is replaced by proliferation of surrounding undamaged specialised cells of the **same type**. In man, regeneration is **imperfect** — best seen in the liver after viral hepatitis, and in epithelial surfaces.
+				- Cell-proliferative capacity determines regenerative potential:
+					- **Labile cells** — continuously dividing (skin, GIT mucosa, bone marrow)
+					- **Stable (quiescent) cells** — low baseline replication but divide rapidly when stimulated (hepatocytes, renal tubule cells, fibroblasts, endothelial cells)
+					- **Permanent cells** — *cannot* divide post-natally (neurones, cardiac myocytes) → replaced by scar
+				- Source: hist Wound Healing & Repair (Umar Mohammed, UDU Sokoto) slides 6–9
+			- **Repair (scarring)** — replacement by **granulation tissue → scar (fibrous tissue)**. Occurs when surrounding cells cannot regenerate, or when tissue loss is too great.
+				- Source: hist Wound Healing slide 7; Baja Ch. 5 p. 60
+		- ### By biological closure (intention)
+			- **Primary intention (1°)** — clean, sharply incised wound with edges apposed (sutures/staples). Minimal tissue loss; epithelial regeneration predominates over fibrosis. Fine, narrow scar.
+			- **Secondary intention (2°)** — wound left open with separated edges; healing by granulation, contraction and epithelialisation from the periphery. Thicker, broader, less cosmetic scar.
+			- **Tertiary intention (3°) — delayed primary closure** — heavily contaminated wound left open for 4–5 days, then closed once a healthy bed of granulation has formed. Final tensile-strength gain approaches that of primary healing.
+				- Source: Baja Ch. 5 pp. 63–64; hist Wound Healing slides 11–18
+- # Phases of wound healing
+	- *Modern 4-phase scheme (Baja Ch. 5 pp. 61–64; hist Wound Healing slides 19–23). In reality the phases overlap — they are a "continuous spectrum of activity, a concert of simultaneously occurring processes" (Baja p. 62).*
+	- ## 1. Traumatic Inflammation phase ("Inflammatory phase")
+		- **Duration**: minutes → ~day 3 (overlaps into phase 2)
+		- **Dominant cells**: **platelets** (immediate) → **neutrophils** (peak Day 1–2)
+		- **Function**
+			- **Haemostasis** — capillary constriction, platelet plug, fibrin clot seals the wound edges
+			- **Vasodilation + ↑ permeability** (mediated by serotonin, histamine, bradykinin, prostaglandins) → exudate, oedema, the turgid wound
+			- **Cytokine / growth-factor release** by platelets: **PDGF, TGF-β, IGF-1, fibronectin, thromboplastin**
+			- **Cellular recruitment** — neutrophils marginate, undergo diapedesis, kill bacteria
+			- Body temperature rises to **37.5–38.5 °C** (analogous to early bacterial inflammation)
+		- Source: Baja Ch. 5 p. 62; hist Wound Healing slide 20
+	- ## 2. Destructive (Demolition) phase
+		- **Duration**: day 1 → day ~6 (together with Phase 1, this constitutes the **lag / substrate phase**: 4–6 days during which the wound has *no tensile strength*)
+		- **Dominant cells**: **macrophages** (monocytes that have entered the wound and converted) — also resident tissue macrophages
+		- **Function**
+			- **Phagocytosis / debridement** — clearance of dead tissue, debris, bacteria
+			- **Growth-factor secretion** — macrophages release **b-FGF, TGF-β, PDGF, VEGF** which orchestrate the proliferative phase
+			- "Preparation phase" — foundations are laid for repair
+		- Source: Baja Ch. 5 p. 62
+	- ## 3. Proliferation (Fibroplasia) phase
+		- **Duration**: day ~4 → 3 weeks (tensile strength rises rapidly from week 1 to 6)
+		- **Dominant cells**: **fibroblasts, endothelial cells, keratinocytes**
+		- **Function**
+			- **Fibroplasia** — fibroblasts migrate in and deposit **collagen** (initially fine *tropocollagen* fibrils) on a fibronectin / glycosaminoglycan scaffold
+			- **Angiogenesis (neovascularisation)** — endothelial cells divide and migrate to form new capillary loops → granulation tissue
+			- **Re-epithelialisation** — keratinocytes proliferate at the wound edges (driven by **EGF**) and migrate across the surface, often forming a downward-growing **epidermal spur**
+			- **Wound contraction** begins — myofibroblasts pull edges inward
+			- Sutures can be removed Day 7–10 with minimum risk of dehiscence
+		- Key growth factors active in this phase:
+			- PDGF, TGF-β, b-FGF, VEGF — chemotaxis, fibroblast division, angiogenesis
+			- EGF — epidermal growth, epithelialisation
+		- Source: Baja Ch. 5 pp. 62–63; hist Wound Healing slide 22
+	- ## 4. Maturation (Cicatrization / Remodelling) phase
+		- **Duration**: week 3 → 1 year **and beyond** (tensile-strength gain continues for many months — by month 6 only ~50% recovery; never fully regains original strength)
+		- **Dominant cells**: **fibroblasts (declining number), myofibroblasts**
+		- **Function**
+			- **Collagen remodelling** — type III collagen (laid down early) is progressively replaced by type I; increased cross-linking; fibres reorient along lines of mechanical stress
+			- **Wound contraction completes** — driven by myofibroblasts throughout the wound substance
+			- **Scar maturation** — initially elevated, red and congested → thins, flattens, pales
+			- **Endarteritis obliterans** — blood vessels gradually regress; the scar becomes avascular
+			- Fibre-to-cell ratio rises until adult scar shows only sparse fibroblasts
+			- Source: Baja Ch. 5 p. 63; hist Wound Healing slide 23
+		- Possible end-results if remodelling is dysregulated:
+			- **Hypertrophic scar** — raised but **confined to the original wound margins**
+			- **Keloid scar** — raised, extending **beyond** the original wound margins
+			- Source: hist Wound Healing slide 23
+- # Phase summary table
+	- | Phase | Duration | Dominant cells | Core function |
+	- | --- | --- | --- | --- |
+	- | 1. Traumatic Inflammation | 0 → day 3 | Platelets → neutrophils | Haemostasis; vasodilation; cytokine release; bacterial killing |
+	- | 2. Destructive (Demolition) | Day 1 → day 6 | Macrophages | Phagocytic debridement; growth-factor secretion to orchestrate Phase 3 |
+	- | 3. Proliferation (Fibroplasia) | Day 4 → 3 weeks | Fibroblasts, endothelial cells, keratinocytes | Collagen deposition; angiogenesis (granulation tissue); re-epithelialisation; early contraction |
+	- | 4. Maturation (Cicatrization) | Week 3 → > 1 year | Fibroblasts (↓), myofibroblasts | Collagen remodelling (III → I); wound contraction; scar pales/flattens; tensile-strength gain |
+	- *Phases 1 + 2 = the lag / substrate phase (~4–6 days, no tensile strength).*
+	- *This sequence is a strong candidate for a dedicated whiteboard — see `Phases of wound healing` (to be built).*
+- # Cross-cutting notes
+	- **Tensile strength** never reaches that of original tissue. ~50% recovery at 5–6 months; collagen synthesis essentially plateaus after day 42 (further gains are from cross-linking, not new collagen). Source: Baja Ch. 5 p. 63
+	- **Langer's lines** — incisions made parallel to Langer's lines heal with less wound-edge separation and better cosmesis. Transverse abdominal incisions are technically superior to longitudinal but the latter dominate by ease of execution. Source: Baja Ch. 5 p. 64
+- # Related
+	- [[Wound]], [[Inflammation]], [[Suturing]], [[Wound debridement]], [[Surgical site infection]]

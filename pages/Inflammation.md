@@ -1,0 +1,14 @@
+
+- # Inflammation
+	- **The response of vascularised living tissue to injury.**
+		- Source: Inflammation 1 (MBBS lecture, A. Salihu, UDU Sokoto) slide 6; Baja Ch. 2 p. 12
+	- A stereotyped reaction involving blood vessels, cells, connective-tissue matrix and chemical mediators. Primarily **protective** (elimination of injurious agent + repair) but may itself be **harmful**.
+		- Source: Inflammation 1 slide 3
+	- **Cardinal signs** (Celsus, expanded by Virchow):
+		- *Rubor* — redness
+		- *Calor* — heat
+		- *Tumor* — swelling
+		- *Dolor* — pain
+		- *Functio laesa* — loss of function (added by Virchow, 19th C.)
+		- Source: Inflammation 1 slides 4–5; Surgical Infections lecture slide 13
+	- Related: [[Systemic Inflammatory Response Syndrome]], [[Sepsis]], [[Colonization]]

@@ -1,0 +1,13 @@
+
+- # Bacteraemia
+	- **The transient invasion of the circulation — blood and lymphatics — by bacteria.**
+		- Source: Baja Ch. 2 (Bacteraemia section)
+	- The patient is **usually asymptomatic**. Common trivial sources:
+		- Tooth extraction or tooth brushing
+		- Urethral catheterization
+		- Squeezing a pimple
+		- Source: Baja Ch. 2 (same section)
+	- Distinguish from:
+		- [[Septicaemia]] — *sustained* bloodstream infection with systemic reaction
+		- [[Sepsis]] — organ dysfunction from a dysregulated host response to infection
+	- Related: [[Septicaemia]], [[Sepsis]]

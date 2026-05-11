@@ -1,0 +1,47 @@
+
+- # Wound
+	- **Definition** — a wound is tissue injury that disrupts the structural integrity of an epithelium and/or deeper tissues. Ranges from simple cutaneous wheals or blisters to gross tissue death (necrosis).
+		- *Wound vs Injury* — distinction is marginal: "**injury**" implies a wider range of damage from trivial up to the severest deep/cavity involvement; "**wound**" refers to lighter, more superficial tissue defects.
+		- Source: Baja Ch. 5 p. 58
+	- ## Causes of tissue injury (4 categories)
+		- **Mechanical** — work, road, home, assault. Most are blunt (→ closed wound) or sharp (→ open wound).
+		- **Chemical** — strong acids, alkalis, caustics; snake/insect bites; corrosive ingestion (→ oesophageal stricture).
+		- **Radiant energy** — X-rays, radium, atomic radiation, high-voltage electricity, heat, intense cold. Healing is slow.
+		- **Pathogenic microorganisms** — usually *secondary* invaders; rarely primary cause. Tissue destruction via exotoxins or hypersensitivity reactions.
+		- Source: Baja Ch. 5 p. 58
+	- ## Classification of wounds
+		- ### By depth / mechanism (Baja)
+			- **Closed wounds**
+				- *Contusion / bruise* — disruption of subcutaneous/submucous connective tissue with extravasation of blood; intact epithelium; usually blunt trauma.
+			- **Open wounds**
+				- *Abrasion* — loss of superficial epithelium only.
+				- *Puncture wound* — small entry, deep penetration (nail, narrow knife).
+				- *Lacerated wound* — wider entry, sharp instrument or blunt force.
+				- *Penetrating* — enters a body cavity (chest, abdomen).
+				- *Perforating* — passes entirely through an organ or cavity (typical of firearm missile injuries).
+				- *Avulsion* — portions of body torn or wrenched away (scalp, extremities); may be **complete** (no connection) or **partial** (tenuous strands of tissue connect).
+			- **Special mechanisms**
+				- *Missile / firearm injuries* — energy = M·(V1–V2). Low-velocity (pistol) → laceration + crush along track; high-velocity (rifle) → temporary cavitation, devastating distant injury. Wound of entry usually smaller than exit.
+				- *Blast injuries* — blast pressure wave + mass air movement; affect ear drums, lungs, GI tract preferentially.
+			- Source: Baja Ch. 5 pp. 58–59
+		- ### By degree of contamination — National Research Council, USA, 1964
+			- *Standard examples are illustrative (Bailey & Love-style); the **criteria + infection rates** are from the source below.*
+			- **Class I — Clean** (1–5.6% infection rate)
+				- *Criteria*: Elective, atraumatic, primary closure. **No hollow viscus opened** (GI / respiratory / GU / oropharyngeal tracts NOT entered). No inflammation. No break in sterile technique.
+				- *Examples*: Hernia repair, thyroidectomy, mastectomy, joint replacement, vascular surgery, breast lumpectomy.
+			- **Class II — Clean-contaminated** (5–15% infection rate)
+				- *Criteria*: **Hollow viscus opened under controlled conditions** with minimal spillage. No unusual contamination.
+				- *Examples*: Elective cholecystectomy, elective colectomy with bowel prep, non-perforated appendicectomy, hysterectomy, transurethral prostatectomy.
+			- **Class III — Contaminated** (15–25% infection rate)
+				- *Criteria*: Hollow viscus opened with **spillage**; **acute non-purulent inflammation** present (no pus); fresh traumatic wound **< 4 hours** old; major break in sterile technique.
+				- *Examples*: Acute non-perforated appendicitis, gross GI spillage, fresh open fracture, animal bite < 4 h.
+			- **Class IV — Dirty / Infected** (> 25% infection rate)
+				- *Criteria*: **Pus present**; perforated hollow viscus; incision through an abscess; traumatic wound **> 4 hours** old or with retained devitalised tissue; pre-existing infection.
+				- *Examples*: Drainage of an abscess, perforated appendicitis with peritonitis, faecal peritonitis, traumatic wound > 4 h, debridement of gas gangrene.
+			- Source: Surgical Infections (Musa, UDUTH) slide 22 — citing National Research Council, USA, 1964
+		- ### By healing intention
+			- **Primary intention (first intention)** — clean, sharply incised wound with edges apposed (sutures/staples). Minimal granulation. Fine scar.
+			- **Secondary intention** — wound left open to heal by granulation, contraction and epithelialisation. Thicker, broader, less cosmetic scar.
+			- **Tertiary intention (delayed primary closure)** — heavily contaminated wound left open 4–5 days, then closed once granulation is healthy. Tensile-strength gain approaches primary healing.
+			- Source: Baja Ch. 5 pp. 63–64
+	- Related: [[Wound healing]], [[Inflammation]], [[Suturing]], [[Surgical site infection]], [[Wound debridement]]

@@ -1,0 +1,305 @@
+{:blocks (
+{:block/created-at 1747510000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "text"
+:id "8a7b1000-0000-4000-8000-000000001900"
+:parentId "8a7b1000-0000-4000-8000-000000000010"
+:point [80 20]
+:size [560 50]
+:index 1000
+:scale [1 1]
+:scaleLevel "xl"
+:stroke ""
+:fill ""
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:padding 4
+:fontWeight 700
+:noFill true
+:lineHeight 1.2
+:fontSize 28
+:italic false
+:text "Phases of wound healing"
+:nonce 1747510000000}}
+:block/updated-at 1747510000000}
+{:block/created-at 1747510000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box"
+:id "8a7b1000-0000-4000-8000-000000001000"
+:parentId "8a7b1000-0000-4000-8000-000000000010"
+:point [200 120]
+:size [360 180]
+:index 1
+:scale [1 1]
+:scaleLevel "md"
+:stroke "#c53030"
+:fill "#fff5f5"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:borderRadius 6
+:noFill false
+:label "1. Traumatic Inflammation\n\nDuration: 0 → Day 3\n\nCells: Platelets → Neutrophils\n\nFunction:\nHaemostasis (plug + fibrin clot);\nvasodilation, ↑ permeability;\nplatelet cytokines (PDGF, TGF-β);\nbacterial killing"
+:fontSize 14
+:fontWeight 500
+:italic false
+:nonce 1747510000000}}
+:block/updated-at 1747510000000}
+{:block/created-at 1747510000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "line"
+:id "8a7b1000-0000-4000-8000-000000003000"
+:parentId "8a7b1000-0000-4000-8000-000000000010"
+:point [380 300]
+:index 100
+:scale [1 1]
+:scaleLevel "sm"
+:stroke "#4a5568"
+:fill ""
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:noFill true
+:label "macrophages take over"
+:fontSize 13
+:fontWeight 600
+:italic true
+:handles
+{:start
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId nil}
+:end
+{:id "end"
+:canBind true
+:point [0 80]
+:bindingId nil}}
+:decorations
+{:end "arrow"}
+:nonce 1747510000000}}
+:block/updated-at 1747510000000}
+{:block/created-at 1747510000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box"
+:id "8a7b1000-0000-4000-8000-000000001001"
+:parentId "8a7b1000-0000-4000-8000-000000000010"
+:point [200 380]
+:size [360 180]
+:index 2
+:scale [1 1]
+:scaleLevel "md"
+:stroke "#dd6b20"
+:fill "#fffaf0"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:borderRadius 6
+:noFill false
+:label "2. Destructive (Demolition)\n\nDuration: Day 1 → Day 6\n\nCells: Macrophages\n\nFunction:\nPhagocytic clearance of debris\n+ bacteria;\nmacrophage growth-factor secretion\n(b-FGF, VEGF) → drives Phase 3"
+:fontSize 14
+:fontWeight 500
+:italic false
+:nonce 1747510000000}}
+:block/updated-at 1747510000000}
+{:block/created-at 1747510000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "line"
+:id "8a7b1000-0000-4000-8000-000000003001"
+:parentId "8a7b1000-0000-4000-8000-000000000010"
+:point [380 560]
+:index 101
+:scale [1 1]
+:scaleLevel "sm"
+:stroke "#4a5568"
+:fill ""
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:noFill true
+:label "granulation tissue forms"
+:fontSize 13
+:fontWeight 600
+:italic true
+:handles
+{:start
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId nil}
+:end
+{:id "end"
+:canBind true
+:point [0 80]
+:bindingId nil}}
+:decorations
+{:end "arrow"}
+:nonce 1747510000000}}
+:block/updated-at 1747510000000}
+{:block/created-at 1747510000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box"
+:id "8a7b1000-0000-4000-8000-000000001002"
+:parentId "8a7b1000-0000-4000-8000-000000000010"
+:point [200 640]
+:size [360 180]
+:index 3
+:scale [1 1]
+:scaleLevel "md"
+:stroke "#38a169"
+:fill "#f0fff4"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:borderRadius 6
+:noFill false
+:label "3. Proliferation (Fibroplasia)\n\nDuration: Day 4 → 3 weeks\n\nCells: Fibroblasts, endothelial cells,\nkeratinocytes\n\nFunction:\nCollagen deposition (tropocollagen);\nangiogenesis → granulation tissue;\nre-epithelialisation;\nwound contraction begins"
+:fontSize 14
+:fontWeight 500
+:italic false
+:nonce 1747510000000}}
+:block/updated-at 1747510000000}
+{:block/created-at 1747510000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "line"
+:id "8a7b1000-0000-4000-8000-000000003002"
+:parentId "8a7b1000-0000-4000-8000-000000000010"
+:point [380 820]
+:index 102
+:scale [1 1]
+:scaleLevel "sm"
+:stroke "#4a5568"
+:fill ""
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:noFill true
+:label "collagen synthesis plateaus\n(~day 42)"
+:fontSize 13
+:fontWeight 600
+:italic true
+:handles
+{:start
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId nil}
+:end
+{:id "end"
+:canBind true
+:point [0 80]
+:bindingId nil}}
+:decorations
+{:end "arrow"}
+:nonce 1747510000000}}
+:block/updated-at 1747510000000}
+{:block/created-at 1747510000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box"
+:id "8a7b1000-0000-4000-8000-000000001003"
+:parentId "8a7b1000-0000-4000-8000-000000000010"
+:point [200 900]
+:size [360 180]
+:index 4
+:scale [1 1]
+:scaleLevel "md"
+:stroke "#3182ce"
+:fill "#ebf8ff"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:borderRadius 6
+:noFill false
+:label "4. Maturation (Cicatrization)\n\nDuration: Week 3 → > 1 year\n\nCells: Fibroblasts (↓), Myofibroblasts\n\nFunction:\nCollagen remodelling (III → I);\nwound contraction completes;\nscar pales, flattens;\ntensile strength rises (max ~80%)"
+:fontSize 14
+:fontWeight 500
+:italic false
+:nonce 1747510000000}}
+:block/updated-at 1747510000000}
+{:block/created-at 1747510000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box"
+:id "8a7b1000-0000-4000-8000-000000001901"
+:parentId "8a7b1000-0000-4000-8000-000000000010"
+:point [620 160]
+:size [320 200]
+:index 600
+:scale [1 1]
+:scaleLevel "sm"
+:stroke "#805ad5"
+:fill "#faf5ff"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:borderRadius 6
+:noFill false
+:label "LAG / SUBSTRATE PHASE\n\nPhases 1 + 2 combined\n(~4–6 days)\n\nThe wound has\nNO tensile strength yet.\n\nFoundations for repair\nare being laid."
+:fontSize 14
+:fontWeight 600
+:italic false
+:nonce 1747510000000}}
+:block/updated-at 1747510000000}
+{:block/created-at 1747510000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box"
+:id "8a7b1000-0000-4000-8000-000000001902"
+:parentId "8a7b1000-0000-4000-8000-000000000010"
+:point [620 900]
+:size [320 180]
+:index 601
+:scale [1 1]
+:scaleLevel "sm"
+:stroke "#2c7a7b"
+:fill "#e6fffa"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:borderRadius 6
+:noFill false
+:label "TENSILE STRENGTH\n\nDay 7–10: sutures removable\nWeek 1–6: rapid gain\nMonth 5–6: ~50% recovered\nYear 1: ~80% (max)\n\nNever reaches 100% of\noriginal tissue strength."
+:fontSize 13
+:fontWeight 500
+:italic false
+:nonce 1747510000000}}
+:block/updated-at 1747510000000}
+)
+:pages (
+{:block/uuid #uuid "8a7b1000-0000-4000-8000-000000000010"
+:block/properties
+{:ls-type :whiteboard-page
+:logseq.tldraw.page
+{:id "8a7b1000-0000-4000-8000-000000000010"
+:name "Phases of wound healing"
+:bindings {}
+:nonce 0
+:assets []
+:shapes-index ("8a7b1000-0000-4000-8000-000000001900" "8a7b1000-0000-4000-8000-000000001000" "8a7b1000-0000-4000-8000-000000003000" "8a7b1000-0000-4000-8000-000000001001" "8a7b1000-0000-4000-8000-000000003001" "8a7b1000-0000-4000-8000-000000001002" "8a7b1000-0000-4000-8000-000000003002" "8a7b1000-0000-4000-8000-000000001003" "8a7b1000-0000-4000-8000-000000001901" "8a7b1000-0000-4000-8000-000000001902")}}
+:block/journal? false
+:block/updated-at 1747510000000
+:block/created-at 1747510000000
+:block/type "whiteboard"
+:block/name "Phases of wound healing"
+:block/original-name "Phases of wound healing"})}
+
