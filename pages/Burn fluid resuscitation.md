@@ -1,0 +1,68 @@
+
+- # Burn fluid resuscitation
+	- *Adequate fluid resuscitation is the single most important early-management intervention. It corrects plasma exudation, prevents hypovolaemic shock, and protects the kidneys.*
+- # Indication for IV fluid resuscitation
+	- **Adults** — > 20 % TBSA superficial burns, OR > 10 % TBSA deep burns
+	- **Children** — > 10 % TBSA superficial burns, OR > 5 % TBSA deep burns
+	- (Below these thresholds → oral fluid replacement on outpatient basis.)
+	- Source: Baja Ch. 14 p. 209, p. 213
+- # Why fluid is needed — pathophysiology in brief
+	- Burn injury → release of vasoactive mediators (leukotrienes, prostaglandins, bradykinin, histamine, TXA₂, oxygen free radicals) → **↑ capillary permeability** → extravasation of fluid + electrolytes + plasma proteins (esp. albumin) into the **interstitial space and raw areas** → oedema and intravascular volume loss → hypovolaemic shock if uncorrected.
+	- 50 % of resuscitation fluid in a 50 % TBSA burn is **sequestered in non-burned tissues**.
+	- **Oedema is maximal in the first 8 h** and **falls off by 24–48 h** as capillary integrity recovers.
+	- Reabsorption complete by **5–7 days post-burn** (assuming no infection) — manifests as **diuresis**.
+	- Source: Baja Ch. 14 p. 209
+- # Formulae — Baja teaches three
+	- ## 1. Parkland formula — the most widely used today
+		- **Total volume in first 24 h = 4 mL × body weight (kg) × % burn surface area** — given as **Ringer's lactate**.
+		- **Half** the calculated volume is given in the **first 8 h post-burn**; the remaining half over the **next 16 h**.
+		- The 8 h is counted from the **time of injury**, NOT time of admission.
+		- **Second 24 h**: half the first-24-h calculated amount + daily maintenance. Colloids may be used for half the calculated requirements for this second day.
+		- In **children**, maintenance fluid is calculated and added separately.
+		- Source: Baja Ch. 14 p. 213
+	- ## 2. Brooke formula (and Modified Brooke)
+		- *Colloid component*: **0.5 mL × kg × % TBSA burnt** (blood / human plasma protein fraction / dextran 110).
+		- *Electrolyte component* (Ringer's lactate): **1.5 mL × kg × % TBSA burnt**.
+		- *Plus normal daily requirement*: in the tropics, 1 L RL + 2 L 5 % dextrose; temperate, 2 L 5 % dextrose.
+		- *Paediatric electrolyte volume*: **3 mL × kg × % TBSA burnt** in the first 24 h.
+		- **Modified Brooke** = same calculation but **all crystalloid (no colloid in the first 24 h)** — because colloids leak through damaged capillaries into the interstitium during this window.
+		- Same 8h-then-16h split as Parkland.
+		- Source: Baja Ch. 14 p. 213
+	- ## 3. Ceiling on fluid volume
+		- **Use a maximum of 50 % TBSA when calculating fluid requirements**, even if the actual burn is > 50 %.
+		- Reason: maximum obtainable oedema ≈ **10 % of body weight** or **50 % of total ECF volume**.
+		- Source: Baja Ch. 14 p. 213
+- # Monitoring — urine output is the single best guide
+	- Insert a **self-retaining Foley catheter** in every patient with ≥ 20 % TBSA burn.
+	- **Target urine output**:
+		- Adults — **1 mL/kg/h**
+		- Children — **1–2 mL/kg/h**
+	- Titrate fluid infusion **against urine output**:
+		- Inadequate UO → ↑ infusion rate
+		- Excessive UO → ↓ infusion rate (avoid "**fluid creep**" — over-resuscitation)
+	- Also half-hourly: **BP, pulse, CVP, respiratory rate**, skin turgor in unburned area, skin warmth/moisture.
+	- Source: Baja Ch. 14 pp. 212–213
+- # Fluid choices
+	- **First 24 h**: Ringer's lactate (preferred, Parkland-style) or Modified Brooke crystalloid-only.
+	- **Normal saline** acceptable but RL is preferred (electrolyte composition closer to extracellular fluid, less risk of hyperchloraemic acidosis with large volumes).
+	- **Colloid** (albumin 4.5 %, dextran 110, human plasma protein fraction) — generally **withheld in the first 24 h** because leaky capillaries let it into the interstitium; introduced in the second 24 h.
+	- **Blood transfusion** — used to replace part of the colloid requirement in patients **anaemic from extensive deep burns**, **after** reasonable rehydration with crystalloid (usually after 24 h), guided by haematocrit trending normal.
+	- Source: Baja Ch. 14 pp. 213–214
+- # Special situations
+	- ## Pigmenturia (haemoglobinuria / myoglobinuria) — deep burns and electrical injury
+		- Maintain hourly UO at **1–2 mL/kg**.
+		- Add **10 % mannitol** as solute diuretic (in electrical-injury protocol: bolus 25 g, then 12.5 g hourly until UO target reached).
+		- **Alkalinise urine** with sodium bicarbonate to keep pigments in solution (in electrical-injury: molar bicarbonate 80–120 mL).
+		- Source: Baja Ch. 14 pp. 213, 221
+	- ## Vitamin C as a resuscitation adjunct
+		- IV ascorbic acid (anti-oxidant) reduces systemic inflammatory response → reduces fluid requirement by **30–40 %**.
+		- Dose: **10 g / L of Ringer's lactate at 100 mL/h** — the 1 L is **deducted from the calculated 24-h fluid requirement**.
+		- Also essential for wound healing.
+		- Source: Baja Ch. 14 p. 213
+- # Pitfalls to avoid
+	- **Over-resuscitation (fluid creep)** → pulmonary oedema, abdominal compartment syndrome, conversion of partial- to full-thickness burns in already-oedematous tissue.
+	- **Under-resuscitation** → hypovolaemic shock, pre-renal AKI / ATN, conversion of zone-of-stasis tissue into zone of necrosis.
+	- **Starting the 8 h clock at admission instead of at injury** — recompute from the time of injury.
+	- Source: Baja Ch. 14 p. 213
+- # Related
+	- [[Burn]], [[Burn estimation]], [[Burn management]], [[Shock]], [[Sepsis]]

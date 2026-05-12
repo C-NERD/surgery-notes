@@ -45,7 +45,7 @@
 :opacity 1
 :borderRadius 6
 :noFill false
-:label "1. Traumatic Inflammation\n\nDuration: 0 → Day 1\n\nCells: Platelets\n(neutrophils arriving at end)\n\nFunction:\nHaemostasis (plug + fibrin clot);\nvasodilation, ↑ permeability;\nplatelet cytokines (PDGF, TGF-β);\nneutrophil/monocyte recruitment"
+:label "1. Traumatic Inflammation\n\nDuration: 0 → Day 3\n\nCells: Platelets → Neutrophils\n\nFunction:\nHaemostasis (plug + fibrin clot);\nvasodilation, ↑ permeability;\nplatelet cytokines (PDGF, TGF-β);\nbacterial killing"
 :fontSize 14
 :fontWeight 500
 :italic false
@@ -68,7 +68,7 @@
 :strokeWidth 2
 :opacity 1
 :noFill true
-:label "neutrophils start phagocytosis"
+:label "macrophages take over"
 :fontSize 13
 :fontWeight 600
 :italic true
@@ -106,7 +106,7 @@
 :opacity 1
 :borderRadius 6
 :noFill false
-:label "2. Destructive (Demolition)\n\nDuration: Day 1 → Day 6\n\nCells: Neutrophils → Macrophages\n\nFunction:\nNeutrophils kill bacteria + ingest debris (Day 1);\nmacrophages take over (Day 2–3),\ncontinue debridement;\nmacrophage GFs (b-FGF, VEGF) → Phase 3"
+:label "2. Destructive (Demolition)\n\nDuration: Day 1 → Day 6\n\nCells: Macrophages\n\nFunction:\nPhagocytic clearance of debris\n+ bacteria;\nmacrophage growth-factor secretion\n(b-FGF, VEGF) → drives Phase 3"
 :fontSize 14
 :fontWeight 500
 :italic false

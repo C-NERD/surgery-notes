@@ -1,0 +1,50 @@
+
+- # Burn estimation
+	- *Two things must be estimated in every burn patient: **total body surface area (TBSA)** affected and **depth** of injury. Both drive fluid resuscitation, admission decisions, and prognosis.*
+		- Source: Baja Ch. 14 p. 208
+- # Estimation of extent (TBSA)
+	- ## 1. Lund and Browder chart — **most accurate**
+		- Adjusts surface-area allocations for body proportions at different ages (head proportionally larger in infants, limbs smaller).
+		- Use whenever available, especially in **paediatric** burns.
+		- Source: Baja Ch. 14 p. 208
+	- ## 2. Wallace's Rule of Nines — rapid bedside estimation (Fig 14-1)
+		- Each region = a multiple of 9 % of TBSA in the **adult**:
+			- Head & neck — **9 %**
+			- Each upper limb — **9 %** (so both = 18 %)
+			- Anterior trunk — **18 %**
+			- Posterior trunk — **18 %**
+			- Each lower limb — **18 %**
+			- Perineum — **1 %**
+		- *Inadequacies are most pronounced in the **paediatric** age group* — Baja:
+			- **Infant head** ≈ **20 %** (much larger than the 9 % the Rule of Nines allots)
+			- **Infant lower limb** ≈ **14 %** (smaller than the 18 % allotted)
+		- Source: Baja Ch. 14 p. 208, Fig 14-1
+	- ## 3. Rule of the Palm — for small / scattered burns
+		- The patient's **palm (including digits) ≈ 1 % TBSA**.
+		- Quick but less accurate.
+		- Source: Baja Ch. 14 p. 208
+- # Estimation of depth
+	- *Depth is judged on **clinical inspection** of the burn surface using the features below (Baja Table 14.1).*
+	- | Depth | Surface appearance | Sensation / blanching | Healing potential |
+	- | --- | --- | --- | --- |
+	- | **1° (epidermal)** | Erythema, no blister | Painful, **blanching** | Heals **5–7 days**, no scarring |
+	- | **2° superficial** | Erythema + **blistering** | Painful, **blanching** | Heals **~3 weeks**, no significant scarring |
+	- | **2° deep** | **Mottled** | Less painful, **non-blanching, whitening** | Heals **> 3 weeks**, unfavourable scarring |
+	- | **3° (full thickness)** | **Leathery**; thrombosed vessels visible | **Insensate** | **No spontaneous healing** — needs grafting |
+	- | **4°** | **Charred** — extends to muscle / joint / bone | Insensate | No spontaneous healing — needs grafting (± reconstruction / amputation) |
+	- Source: Baja Ch. 14 pp. 207–208, Table 14.1
+- # Severity weighting (use when computing fluid)
+	- Superficial burns are computed as **half the severity** of deep burns of the same surface area — *because fluid exudation and infection risk scale with depth, not just area*.
+	- This is why the [[Burn#Major vs minor burn — admission criteria|major-burn thresholds]] differ for superficial (≥ 20 % adults / ≥ 10 % children) vs deep (≥ 10 % / ≥ 5 %).
+	- Source: Baja Ch. 14 p. 208
+- # Practical workflow at the bedside
+	- 1. Identify regions burned. Sketch on a body diagram if possible.
+	- 2. Compute TBSA — **Lund–Browder** ideally; **Rule of Nines** if rapid estimation needed; **Rule of Palm** for scattered or small burns.
+	- 3. For each burn region, classify depth using surface features in the table above.
+	- 4. Tag the **deepest** burn area — guides early excision strategy.
+	- 5. Record TBSA% (superficial + deep separately).
+	- 6. **Do not include 1° burns** when calculating TBSA for fluid resuscitation purposes (1° = of no clinical consequence in isolation).
+		- *Implication note: Baja doesn't state this explicitly in Ch. 14; the Parkland and Brooke formulae as written in p. 213 use "percentage burn surface area" of the resuscitation-relevant burn — i.e. partial + full thickness. Standard practice is to exclude 1°. Verify with your school's protocol.*
+	- 7. Carry TBSA forward into [[Burn fluid resuscitation]].
+- # Related
+	- [[Burn]], [[Burn fluid resuscitation]], [[Burn management]]

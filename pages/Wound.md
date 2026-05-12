@@ -44,4 +44,16 @@
 			- **Secondary intention** — wound left open to heal by granulation, contraction and epithelialisation. Thicker, broader, less cosmetic scar.
 			- **Tertiary intention (delayed primary closure)** — heavily contaminated wound left open 4–5 days, then closed once granulation is healthy. Tensile-strength gain approaches primary healing.
 			- Source: Baja Ch. 5 pp. 63–64
+		- ### By condition / management implication — Rank & Wakefield (tidy / untidy)
+			- ⚠ *This classification is **not** in any of the primary surgical sources used elsewhere in this graph (Baja, Bailey & Love, Norman Browse, The Guide, hist Wound Healing PDF). The text below is **quoted verbatim** from a secondary web source — accuracy of the wording is verified, but the surrounding framing is illustrative only. The original classification is attributed to Rank, Wakefield & Hueston, "Surgery of Repair as Applied to Hand Injuries" (Churchill Livingstone), which is not in the graph's source set.*
+			- **Tidy wounds**
+				- *"Tidy wounds are inflicted by sharp instruments and contain no devitalised tissue."*
+				- *"Skin wounds will usually be single and clean cut. Tendons, arteries and nerves will commonly be injured in tidy wounds, but repair of these structures is usually possible. Fractures are uncommon in tidy wounds."*
+				- Examples (per source): *"surgical incisions, cuts from glass and knife wounds"*
+			- **Untidy wounds**
+				- *"Untidy wounds result from crushing, tearing, avulsion, vascular injury or burns, and contain devitalised tissue."*
+				- *"Skin wounds will often be multiple and irregular. Tendons, arteries and nerves may be exposed, and might be injured in continuity, but will usually not be divided. Fractures are common and may be multifragmentary."*
+				- Critical management note: *"Such wounds must not be closed primarily; if they are closed wound healing is unlikely to occur without complications."*
+			- Source (secondary): surgeryonline.wordpress.com — "Wound Tissue Repair and Scars" (Sep 20, 2008). Retrieved 2026-05-12. URL: https://surgeryonline.wordpress.com/tag/types-of-wound/
+			- Primary attribution (per the secondary source, **not directly verified**): Rank, Wakefield & Hueston, *Surgery of Repair as Applied to Hand Injuries* (Churchill Livingstone).
 	- Related: [[Wound healing]], [[Inflammation]], [[Suturing]], [[Surgical site infection]], [[Wound debridement]]

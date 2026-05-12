@@ -1,0 +1,58 @@
+
+- # Burn
+	- **Definition** — tissue damage resulting from injury by various aetiological agents. Primarily an injury to skin, but deeper tissues may be affected as well.
+		- Source: Baja Ch. 14 p. 207
+	- ## Aetiological agents
+		- **Thermal** — dry heat (flame) and **moist heat (scalds — now the commonest type in the West African sub-region)**
+		- **Electrical** — household current, generators, high-tension cables, lightning
+		- **Chemical** — acidic, alkaline, organic
+		- **Radiation** — therapeutic radiotherapy, electromagnetic, particulate
+		- *All agents cause **coagulative necrosis** of tissues* — **EXCEPT alkaline chemicals, which cause liquefactive necrosis** (ability to penetrate deeper).
+		- Source: Baja Ch. 14 p. 207
+	- ## West African epidemiology (Baja's local-context callouts)
+		- **Scalds** have overtaken flame burns as the most common burn injury — usually domestic, mostly affecting children and women.
+		- **Seasonal variation**: incidence peaks in the **cold Harmattan season** (lowest humidity).
+		- **Flame burns** predominate in young adults — road traffic accidents and industrial accidents.
+		- **Petroleum-related** mass-casualty burns: poor handling of petroleum products and **vandalization of petroleum pipelines** are increasing causes.
+		- **LP gas burns** are increasing with rising LPG use.
+		- Source: Baja Ch. 14 p. 207
+	- ## Classification — three parallel schemes
+		- *Baja Table 14.1 maps three classification systems onto one another. Use them in parallel:*
+		- ### A. Traditional classification — by depth
+			- **First-degree (1°)** — limited to **epidermis**. Manifests as **erythema**. Heals spontaneously within **5–7 days, no scarring**. *Of no clinical consequence — does not lead to hospital presentation in isolation.*
+			- **Second-degree (2°), superficial** — papillary dermis. **Blistering**; capable of **spontaneous healing within ~3 weeks** with no significant scarring.
+			- **Second-degree (2°), deep** — reticular dermis. **Mottled appearance**; healing requires **> 3 weeks** with unfavourable scarring.
+			- **Third-degree (3°)** — full thickness of skin extending into subcutaneous tissue. **Leathery skin**; sometimes visible thrombosed subcutaneous vessels. **No potential for spontaneous healing.**
+			- **Fourth-degree (4°)** — skin **charred**; injury extends to **muscle, joint, or bone**. No potential for spontaneous healing.
+		- ### B. Contemporary classification — by therapeutic depth
+			- **Superficial partial thickness** ≈ 1° + superficial 2°
+			- **Deep partial thickness** ≈ deep 2°
+			- **Full thickness** ≈ 3° + 4°
+		- ### C. Radical classification — by treatment requirement & prognosis
+			- **Superficial burns** — heal with conservative wound care; **no surgical intervention required**
+			- **Deep burns** — require **early wound excision and skin grafting** to avoid unfavourable scarring (corresponds to deep partial thickness + full thickness; deep 2° → 4°)
+		- *Modern practice favours the radical view: **deep partial thickness through fourth degree** burns are best served by **early excision + skin grafting**.*
+		- Source: Baja Ch. 14 pp. 207–208, Table 14.1
+	- ## Major vs minor burn — admission criteria
+		- **Major (admit) — superficial burns**:
+			- ≥ 20 % TBSA in adults
+			- ≥ 10 % TBSA in children
+		- **Major (admit) — deep burns** (superficial burns count as half severity of deep burns of same area):
+			- ≥ 10 % TBSA in adults
+			- ≥ 5 % TBSA in children
+		- **Always-major regardless of size** — burns of:
+			- Face, hands, feet, external genitalia, flexural surfaces of joints
+			- *Reason*: potential for incapacitating complications (ectropion, microstomia, contractures).
+		- **Minor burns** — below the above thresholds, suitable for **outpatient treatment with oral fluid replacement**.
+		- Source: Baja Ch. 14 pp. 208–209
+	- ## Pathology — Jackson's three zones
+		- The local injury radiates as 3 concentric histopathological zones from the point of contact (Fig 14-2):
+		- **Zone of coagulation (necrosis)** — central — irreversibly damaged.
+		- **Zone of ischaemia (stasis)** — middle — vascular spasm + intravascular micro-thrombi → compromised perfusion → can progress to tissue death if mismanaged. *Salvaging this zone is a key objective of early management.*
+		- **Zone of hyperaemia (inflammation)** — outermost — classical signs of inflammation; expected to **make complete recovery in 7–10 days**.
+		- Source: Baja Ch. 14 p. 209, Fig 14-2
+	- ## Outline of further topics
+		- For percentage assessment & depth determination → [[Burn estimation]]
+		- For Parkland / Brooke formulae and fluid targets → [[Burn fluid resuscitation]]
+		- For first aid through definitive care, wound care, complications, electrical, chemical, prevention → [[Burn management]]
+	- Related: [[Burn estimation]], [[Burn fluid resuscitation]], [[Burn management]], [[Wound]], [[Wound healing]], [[Hypertrophic scar]], [[Keloid scar]], [[Marjolin's ulcer]], [[Shock]], [[Sepsis]]

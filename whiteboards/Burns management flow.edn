@@ -1,0 +1,610 @@
+{:blocks (
+{:block/created-at 1747610000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "text"
+:id "8a7b1000-0000-4000-8000-000000004900"
+:parentId "8a7b1000-0000-4000-8000-000000000040"
+:point [80 20]
+:size [560 50]
+:index 1000
+:scale [1 1]
+:scaleLevel "xl"
+:stroke ""
+:fill ""
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:padding 4
+:fontWeight 700
+:noFill true
+:lineHeight 1.2
+:fontSize 26
+:italic false
+:text "Burns management flow"
+:nonce 1747610000000}}
+:block/updated-at 1747610000000}
+{:block/created-at 1747610000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box"
+:id "8a7b1000-0000-4000-8000-000000004000"
+:parentId "8a7b1000-0000-4000-8000-000000000040"
+:point [200 120]
+:size [380 130]
+:index 1
+:scale [1 1]
+:scaleLevel "md"
+:stroke "#c53030"
+:fill "#fff5f5"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:borderRadius 6
+:noFill false
+:label "1. FIRST AID (at scene)\n\nSeparate from agent (precautions for type);\nirrigate burn under running water 10–15 min;\n❌ No ice / submersion;\ncover with clean sheet;\nbeware hypothermia in large burns"
+:fontSize 13
+:fontWeight 500
+:italic false
+:nonce 1747610000000}}
+:block/updated-at 1747610000000}
+{:block/created-at 1747610000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "line"
+:id "8a7b1000-0000-4000-8000-000000004100"
+:parentId "8a7b1000-0000-4000-8000-000000000040"
+:point [390 250]
+:index 100
+:scale [1 1]
+:scaleLevel "sm"
+:stroke "#4a5568"
+:fill ""
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:noFill true
+:label "transport to hospital"
+:fontSize 12
+:fontWeight 500
+:italic true
+:handles
+{:start
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId nil}
+:end
+{:id "end"
+:canBind true
+:point [0 70]
+:bindingId nil}}
+:decorations
+{:end "arrow"}
+:nonce 1747610000000}}
+:block/updated-at 1747610000000}
+{:block/created-at 1747610000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box"
+:id "8a7b1000-0000-4000-8000-000000004001"
+:parentId "8a7b1000-0000-4000-8000-000000000040"
+:point [200 320]
+:size [380 130]
+:index 2
+:scale [1 1]
+:scaleLevel "md"
+:stroke "#dd6b20"
+:fill "#fffaf0"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:borderRadius 6
+:noFill false
+:label "2. PRIMARY SURVEY + IV ACCESS\n\nABCDE;\nwide-bore cannula (cut-down / CVP if collapsed);\ncommence Ringer's lactate immediately"
+:fontSize 13
+:fontWeight 500
+:italic false
+:nonce 1747610000000}}
+:block/updated-at 1747610000000}
+{:block/created-at 1747610000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "line"
+:id "8a7b1000-0000-4000-8000-000000004101"
+:parentId "8a7b1000-0000-4000-8000-000000000040"
+:point [390 450]
+:index 101
+:scale [1 1]
+:scaleLevel "sm"
+:stroke "#4a5568"
+:fill ""
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:noFill true
+:label "secure airway"
+:fontSize 12
+:fontWeight 500
+:italic true
+:handles
+{:start
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId nil}
+:end
+{:id "end"
+:canBind true
+:point [0 70]
+:bindingId nil}}
+:decorations
+{:end "arrow"}
+:nonce 1747610000000}}
+:block/updated-at 1747610000000}
+{:block/created-at 1747610000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box"
+:id "8a7b1000-0000-4000-8000-000000004002"
+:parentId "8a7b1000-0000-4000-8000-000000000040"
+:point [200 520]
+:size [380 130]
+:index 3
+:scale [1 1]
+:scaleLevel "md"
+:stroke "#dd6b20"
+:fill "#fffaf0"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:borderRadius 6
+:noFill false
+:label "3. INHALATION INJURY CHECK\n\nClosed-space exposure? Facial burns,\nsinged vibrissae, hoarseness, carbonaceous sputum?\nFibre-optic bronchoscopy; ETT or tracheostomy if severe"
+:fontSize 13
+:fontWeight 500
+:italic false
+:nonce 1747610000000}}
+:block/updated-at 1747610000000}
+{:block/created-at 1747610000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "line"
+:id "8a7b1000-0000-4000-8000-000000004102"
+:parentId "8a7b1000-0000-4000-8000-000000000040"
+:point [390 650]
+:index 102
+:scale [1 1]
+:scaleLevel "sm"
+:stroke "#4a5568"
+:fill ""
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:noFill true
+:label "anatomical assessment"
+:fontSize 12
+:fontWeight 500
+:italic true
+:handles
+{:start
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId nil}
+:end
+{:id "end"
+:canBind true
+:point [0 70]
+:bindingId nil}}
+:decorations
+{:end "arrow"}
+:nonce 1747610000000}}
+:block/updated-at 1747610000000}
+{:block/created-at 1747610000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box"
+:id "8a7b1000-0000-4000-8000-000000004003"
+:parentId "8a7b1000-0000-4000-8000-000000000040"
+:point [200 720]
+:size [380 130]
+:index 4
+:scale [1 1]
+:scaleLevel "md"
+:stroke "#d69e2e"
+:fill "#fffaf0"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:borderRadius 6
+:noFill false
+:label "4. ESTIMATE BURN (TBSA + Depth)\n\nLund–Browder (most accurate, esp. paeds);\nRule of 9s (rapid bedside);\nRule of palm (1% = 1 palm);\nClassify depth — superficial vs deep matters for fluid"
+:fontSize 13
+:fontWeight 500
+:italic false
+:nonce 1747610000000}}
+:block/updated-at 1747610000000}
+{:block/created-at 1747610000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "line"
+:id "8a7b1000-0000-4000-8000-000000004103"
+:parentId "8a7b1000-0000-4000-8000-000000000040"
+:point [390 850]
+:index 103
+:scale [1 1]
+:scaleLevel "sm"
+:stroke "#4a5568"
+:fill ""
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:noFill true
+:label "compute volumes"
+:fontSize 12
+:fontWeight 500
+:italic true
+:handles
+{:start
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId nil}
+:end
+{:id "end"
+:canBind true
+:point [0 70]
+:bindingId nil}}
+:decorations
+{:end "arrow"}
+:nonce 1747610000000}}
+:block/updated-at 1747610000000}
+{:block/created-at 1747610000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box"
+:id "8a7b1000-0000-4000-8000-000000004004"
+:parentId "8a7b1000-0000-4000-8000-000000000040"
+:point [200 920]
+:size [380 130]
+:index 5
+:scale [1 1]
+:scaleLevel "md"
+:stroke "#3182ce"
+:fill "#ebf8ff"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:borderRadius 6
+:noFill false
+:label "5. FLUID RESUSCITATION — Parkland\n\n4 mL × kg × %TBSA, Ringer's lactate;\n½ in first 8 h (from injury, not admission);\n½ in next 16 h;\nTarget urine: 1 mL/kg/h adult, 1–2 mL/kg/h child"
+:fontSize 13
+:fontWeight 500
+:italic false
+:nonce 1747610000000}}
+:block/updated-at 1747610000000}
+{:block/created-at 1747610000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "line"
+:id "8a7b1000-0000-4000-8000-000000004104"
+:parentId "8a7b1000-0000-4000-8000-000000000040"
+:point [390 1050]
+:index 104
+:scale [1 1]
+:scaleLevel "sm"
+:stroke "#4a5568"
+:fill ""
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:noFill true
+:label "monitor + titrate"
+:fontSize 12
+:fontWeight 500
+:italic true
+:handles
+{:start
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId nil}
+:end
+{:id "end"
+:canBind true
+:point [0 70]
+:bindingId nil}}
+:decorations
+{:end "arrow"}
+:nonce 1747610000000}}
+:block/updated-at 1747610000000}
+{:block/created-at 1747610000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box"
+:id "8a7b1000-0000-4000-8000-000000004005"
+:parentId "8a7b1000-0000-4000-8000-000000000040"
+:point [200 1120]
+:size [380 130]
+:index 6
+:scale [1 1]
+:scaleLevel "md"
+:stroke "#3182ce"
+:fill "#ebf8ff"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:borderRadius 6
+:noFill false
+:label "6. ADJUNCTS\n\nFoley catheter (if ≥20% TBSA);\nNGT decompression;\nIV narcotic analgesia;\ntetanus prophylaxis;\nempirical antibiotic per local sensitivity;\nescharotomy if circumferential deep burn"
+:fontSize 13
+:fontWeight 500
+:italic false
+:nonce 1747610000000}}
+:block/updated-at 1747610000000}
+{:block/created-at 1747610000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "line"
+:id "8a7b1000-0000-4000-8000-000000004105"
+:parentId "8a7b1000-0000-4000-8000-000000000040"
+:point [390 1250]
+:index 105
+:scale [1 1]
+:scaleLevel "sm"
+:stroke "#4a5568"
+:fill ""
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:noFill true
+:label "wound ready"
+:fontSize 12
+:fontWeight 500
+:italic true
+:handles
+{:start
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId nil}
+:end
+{:id "end"
+:canBind true
+:point [0 70]
+:bindingId nil}}
+:decorations
+{:end "arrow"}
+:nonce 1747610000000}}
+:block/updated-at 1747610000000}
+{:block/created-at 1747610000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box"
+:id "8a7b1000-0000-4000-8000-000000004006"
+:parentId "8a7b1000-0000-4000-8000-000000000040"
+:point [200 1320]
+:size [380 130]
+:index 7
+:scale [1 1]
+:scaleLevel "md"
+:stroke "#38a169"
+:fill "#f0fff4"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:borderRadius 6
+:noFill false
+:label "7. WOUND CARE\n\nCleanse with 1% cetrimide / bland soap;\nexposure method OR occlusive dressing;\ntopical antimicrobial — silver sulphadiazine\n(or silver nitrate / mafenide / honey)"
+:fontSize 13
+:fontWeight 500
+:italic false
+:nonce 1747610000000}}
+:block/updated-at 1747610000000}
+{:block/created-at 1747610000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "line"
+:id "8a7b1000-0000-4000-8000-000000004106"
+:parentId "8a7b1000-0000-4000-8000-000000000040"
+:point [390 1450]
+:index 106
+:scale [1 1]
+:scaleLevel "sm"
+:stroke "#4a5568"
+:fill ""
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:noFill true
+:label "after eschar separation"
+:fontSize 12
+:fontWeight 500
+:italic true
+:handles
+{:start
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId nil}
+:end
+{:id "end"
+:canBind true
+:point [0 70]
+:bindingId nil}}
+:decorations
+{:end "arrow"}
+:nonce 1747610000000}}
+:block/updated-at 1747610000000}
+{:block/created-at 1747610000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box"
+:id "8a7b1000-0000-4000-8000-000000004007"
+:parentId "8a7b1000-0000-4000-8000-000000000040"
+:point [200 1520]
+:size [380 130]
+:index 8
+:scale [1 1]
+:scaleLevel "md"
+:stroke "#22543d"
+:fill "#f0fff4"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:borderRadius 6
+:noFill false
+:label "8. DEFINITIVE SURGERY\n\nEarly excision Day 3–7 for deep partial /\nfull-thickness burns;\ntangential vs fascial excision;\nimmediate cover —\nautograft → allograft → xenograft → CEA"
+:fontSize 13
+:fontWeight 500
+:italic false
+:nonce 1747610000000}}
+:block/updated-at 1747610000000}
+{:block/created-at 1747610000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "line"
+:id "8a7b1000-0000-4000-8000-000000004107"
+:parentId "8a7b1000-0000-4000-8000-000000000040"
+:point [390 1650]
+:index 107
+:scale [1 1]
+:scaleLevel "sm"
+:stroke "#4a5568"
+:fill ""
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:noFill true
+:label "long-term care"
+:fontSize 12
+:fontWeight 500
+:italic true
+:handles
+{:start
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId nil}
+:end
+{:id "end"
+:canBind true
+:point [0 70]
+:bindingId nil}}
+:decorations
+{:end "arrow"}
+:nonce 1747610000000}}
+:block/updated-at 1747610000000}
+{:block/created-at 1747610000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box"
+:id "8a7b1000-0000-4000-8000-000000004008"
+:parentId "8a7b1000-0000-4000-8000-000000000040"
+:point [200 1720]
+:size [380 130]
+:index 9
+:scale [1 1]
+:scaleLevel "md"
+:stroke "#805ad5"
+:fill "#faf5ff"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:borderRadius 6
+:noFill false
+:label "9. NUTRITION + REHABILITATION\n\nHigh-protein, high-energy enteral feed;\nphysiotherapy + occupational therapy from Day 1;\nanti-deformity splinting;\npressure garment (25 mmHg, within 3 mo);\npsychotherapy + family support"
+:fontSize 13
+:fontWeight 500
+:italic false
+:nonce 1747610000000}}
+:block/updated-at 1747610000000}
+{:block/created-at 1747610000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box"
+:id "8a7b1000-0000-4000-8000-000000004901"
+:parentId "8a7b1000-0000-4000-8000-000000000040"
+:point [620 150]
+:size [320 180]
+:index 500
+:scale [1 1]
+:scaleLevel "sm"
+:stroke "#742a2a"
+:fill "#fff5f5"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:borderRadius 6
+:noFill false
+:label "BAJA'S 4 R's\n\nRevive — IV fluid, oxygen,\nreverse hypovolaemia + oliguria\n\nRestore — early correction\nof physiology\n\nRepair — early slough separation,\nexcision + skin grafting\n\nRehabilitate — physio, splints,\npsychotherapy, social support"
+:fontSize 12
+:fontWeight 600
+:italic false
+:nonce 1747610000000}}
+:block/updated-at 1747610000000}
+{:block/created-at 1747610000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box"
+:id "8a7b1000-0000-4000-8000-000000004902"
+:parentId "8a7b1000-0000-4000-8000-000000000040"
+:point [620 920]
+:size [320 200]
+:index 501
+:scale [1 1]
+:scaleLevel "sm"
+:stroke "#2c5282"
+:fill "#ebf8ff"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:borderRadius 6
+:noFill false
+:label "PARKLAND FORMULA\n\nFirst 24 h:\n  4 mL × kg × %TBSA\n  Ringer's lactate\n  ½ in first 8 h (from injury)\n  ½ in next 16 h\n\nSecond 24 h:\n  ½ of first-24h volume\n  + daily maintenance\n\nIndication: >20% adult / >10% child"
+:fontSize 12
+:fontWeight 600
+:italic false
+:nonce 1747610000000}}
+:block/updated-at 1747610000000}
+)
+:pages (
+{:block/uuid #uuid "8a7b1000-0000-4000-8000-000000000040"
+:block/properties
+{:ls-type :whiteboard-page
+:logseq.tldraw.page
+{:id "8a7b1000-0000-4000-8000-000000000040"
+:name "Burns management flow"
+:bindings {}
+:nonce 0
+:assets []
+:shapes-index ("8a7b1000-0000-4000-8000-000000004900" "8a7b1000-0000-4000-8000-000000004000" "8a7b1000-0000-4000-8000-000000004100" "8a7b1000-0000-4000-8000-000000004001" "8a7b1000-0000-4000-8000-000000004101" "8a7b1000-0000-4000-8000-000000004002" "8a7b1000-0000-4000-8000-000000004102" "8a7b1000-0000-4000-8000-000000004003" "8a7b1000-0000-4000-8000-000000004103" "8a7b1000-0000-4000-8000-000000004004" "8a7b1000-0000-4000-8000-000000004104" "8a7b1000-0000-4000-8000-000000004005" "8a7b1000-0000-4000-8000-000000004105" "8a7b1000-0000-4000-8000-000000004006" "8a7b1000-0000-4000-8000-000000004106" "8a7b1000-0000-4000-8000-000000004007" "8a7b1000-0000-4000-8000-000000004107" "8a7b1000-0000-4000-8000-000000004008" "8a7b1000-0000-4000-8000-000000004901" "8a7b1000-0000-4000-8000-000000004902")}}
+:block/journal? false
+:block/updated-at 1747610000000
+:block/created-at 1747610000000
+:block/type "whiteboard"
+:block/name "Burns management flow"
+:block/original-name "Burns management flow"})}
+

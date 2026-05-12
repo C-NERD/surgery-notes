@@ -1,0 +1,184 @@
+
+- # Burn management
+	- *Principles (Baja's "4 R's"): **Revive, Restore, Repair, Rehabilitate**. Revival and restoration should be quick and vigorous (IV fluid → reverse hypovolaemia + oliguria); repair = encourage early slough separation and grafting; rehabilitation = surgery + physiotherapy + occupational therapy + psychological support.*
+		- Source: Baja Ch. 14 p. 212
+- # First aid (at the scene)
+	- **Separate** the patient from the inciting agent — with appropriate precautions for the agent type.
+	- **Thermal (scalds + flame)**: irrigate the burned area under running water for **10–15 min** to relieve pain and minimise injury.
+	- ❌ **Do NOT submerge body parts in water or use ice blocks** — detrimental.
+	- **Large surface area burns**: take precautions against **hypothermia** (yes — even in the tropics).
+	- **Electrical**: switch off the current at the mains. If not feasible, use **insulated material** to separate patient from source.
+	- **Chemical — powder form**: **brush off** the chemical before removing contaminated clothes. Cut clothes off rather than removing them over the head (avoids depositing powder on eyes/face).
+	- **Chemical — liquid form**: copious irrigation; ensure run-off does not cause further harm.
+	- Cover affected area with **clean sheets or towels**; transport.
+	- Source: Baja Ch. 14 pp. 212, 221–222
+- # On arrival — step-by-step (Baja's framework)
+	- 1. **Venous access** — wide-bore cannula. Cut-down (basilic / cephalic / great saphenous) if circulatory collapse. Central venous access (multi-lumen) for fluid + drugs + CVP monitoring.
+	- 2. Start **Ringer's lactate** or normal saline immediately while calculating definitive requirement (see [[Burn fluid resuscitation]]). Half of first-24-h requirement in first 8 h from injury; remainder over next 16 h.
+	- 3. **IV narcotic analgesia** — morphine, pethidine, or pentazocine — for pain and anxiety.
+	- 4. **Urinary catheter** (Foley) for every patient with ≥ 20 % TBSA burn — hourly urine output is the **single most reliable parameter** for monitoring burn-shock resuscitation.
+	- 5. **Vital signs half-hourly** — BP, pulse, CVP, RR. Skin turgor of unburned area; skin warm/cold, moist/dry.
+	- 6. **Empirical antibiotics** — choice guided by local sensitivity patterns. Infection surveillance with culture & sensitivity is essential and should guide definitive therapy.
+	- 7. **Tetanus prophylaxis** — IM Tetanol; ATS (after test dose) or human anti-tetanus immunoglobulin only after **correction of shock**.
+	- 8. **Chronological record / checklist** of all interventions.
+	- 9. **Escharotomy** consideration — for deep circumferential burns of limbs and trunk (see below).
+	- 10. **Wound debridement and dressing** when stable — in theatre or tub room.
+	- 11. **Anti-deformity splinting** over involved joints to prevent contractures.
+	- 12. **Surveillance for early complications** — respiratory obstruction, oliguria, haemoglobinuria, anuria, pulmonary oedema, GI bleed, thrombo-embolism, sepsis.
+	- 13. **Nutrition** — high-protein, high-energy. Continuous **enteral feeding via small-bowel tube** preferred in large-surface-area burns (restores gut mucosal integrity).
+	- 14. **Burn wound reassessment** weekly. Superficial burns start healing; deep burns granulate or slough → encourage separation by frequent dressings, or perform sloughectomy.
+	- 15. **Physiotherapy + occupational therapy** — early. Joints through full range of motion even in unconscious / sedated patients.
+	- 16. **Skin grafting** at earliest possible time after eschar excision / separation.
+	- Source: Baja Ch. 14 p. 212
+- # Wound care — four approaches
+	- ## (i) Exposure method
+		- Apply silver sulphadiazine or other topical antibacterial generously on cleansed wound. Aim: **cool, dry eschar** that inhibits bacterial growth.
+		- Ideal environment: **27 °C, 35 % humidity**.
+		- Suited to face, perineum, one side of body.
+		- ❌ Contraindicated in ambulant outpatient treatment (hard to keep eschar intact).
+		- In full-thickness burns: stop exposure as soon as eschar integrity is broken.
+	- ## (ii) Occlusive dressing
+		- Prevents bacterial contamination, reduces pain and evaporative loss, increases re-epithelialisation rate.
+		- Layer order: **non-adherent (Vaseline gauze / sofra-tulle) on burn → absorbent (gamgee) → bulky dressing as splint → even-pressure bandage**.
+		- Change as often as it gets soaked.
+	- ## (iii) Topical antimicrobials
+		- **Silver sulphadiazine (flamazine, dermazine)** — the most widely used. Once daily. Antibacterial vs. gram-negatives, non-toxic, non-painful, softens eschar. May cause **transient leucopenia** over large surface area.
+		- **0.5 % silver nitrate** — effective vs. Pseudomonas; kept moist by adding solution every 3 h. May cause **hyponatraemia / hypokalaemia** from leaching. Now reserved for resistant organisms.
+		- **Mafenide (sulfamylon) cream** — penetrates eschar; twice daily. Painful; allergic rash; inhibits carbonic anhydrase → metabolic acidosis.
+		- **Povidone-iodine** — effective vs. gram-positives and fungi. Painful; dries eschar.
+		- **Honey** (pure, unadulterated) — effective vs. bacterial contamination; promotes healing; painful on application.
+	- ## (iv) Excision + grafting
+		- **Early excision (Day 3–7)** + immediate cover (autograft / allograft / xenograft) — gold standard for **full-thickness and deep partial-thickness burns**.
+		- Benefits: eliminates pain of repeated dressings; reduces infection; early mobilisation; early restoration of function; reduces hypertrophic scarring.
+		- Bleeding risk is high → need a **robust blood bank**. Hence some authorities limit each session to **~20 % TBSA**.
+		- **Tangential excision** — sequential thin slices down to viable, freely-bleeding depth (limbs).
+		- **Fascial excision** — full skin + subcutaneous tissue down to (not including) deep fascia. Reserved for life-threatening injuries / elderly with poor reserves. Contour deformity is the major drawback.
+		- **Immediate excision (within 48 h)** — controversial; reduces blood loss before the systemic metabolic response. Requires haemodynamically stable patient with no inhalation injury.
+		- **Graft sources**: autograft (preferred) → allograft (cadaver skin, < 6 h post-mortem) → xenograft (lyophilised pig skin — never vascularises) → cultured epidermal autograft (CEA, requires 3–4 weeks lab time) → amniotic membrane (as biological dressing).
+		- Source: Baja Ch. 14 pp. 214–216
+- # Inhalational injury
+	- *Responsible for ~50 % of burn deaths — deserves immediate recognition.*
+	- **History**: exposure to fire / smoke in a **closed space**.
+	- **Clinical**: facial burns, **singed nasal vibrissae**, hoarseness, wheezing, **carbonaceous sputum**, possible LOC at time of injury.
+	- **Gold-standard diagnosis**: fibre-optic bronchoscopy.
+	- Three patterns:
+		- *Upper airway* (supraglottic) — heat-induced oedema → may obstruct within 6–24 h. Severe → **tracheostomy** for long-term management.
+		- *Lower airway / parenchymal* — soot, CO, cyanide, toxic products reach bronchi + alveoli → inflammation → erythema, exudation, airway oedema → patchy bronchoalveolar obstruction.
+		- *Systemic intoxication* — CO, cyanide toxicity.
+	- **Management**:
+		- Mild: humidified oxygen by nasal catheter / face mask.
+		- Severe: endotracheal intubation OR tracheostomy + mechanical ventilation with humidified oxygen.
+		- Bronchoalveolar lavage for diagnosis + clearance.
+		- Serial ABGs (PaO₂, sat, pH) + chest radiographs.
+	- Source: Baja Ch. 14 pp. 210, 216
+- # Escharotomy — for circumferential deep burns
+	- **Tourniquet effect** — non-yielding leathery eschar + oedema fluid → vascular compromise distal to it → gangrene; on trunk → restricts respiration, abdominal compartment syndrome.
+	- **Indications** (high index of suspicion; **threshold should be low**):
+		- Cyanosis distal to burn
+		- Impaired capillary filling (skin and nail bed) in unburned areas distal to the burn
+		- Deep pain
+		- Paraesthesia
+	- **Performed at bedside** — through charred, dead tissue, minimal sedation. **Electrocautery preferred** to surgical blade (less bleeding).
+	- Trunk escharotomy → improves chest excursion + prevents abdominal compartment syndrome.
+	- Source: Baja Ch. 14 p. 217, Fig 14-3
+- # Specific anatomical sites
+	- **Face** — gross oedema in first 48 h. Recline patient 30–45° head-up. Eye care if deep; ophthalmology consult if eyes affected. Early eyelid grafting or tarsorrhaphy may save sight.
+	- **Neck** — exposure method; nurse supine with pillow under shoulders to extend the neck; soft/hard collars; early physiotherapy to prevent flexion contracture.
+	- **Axillae** — nurse arms in **abduction**; crucifix splint in children; bulky axillary dressings; early physiotherapy.
+	- **Hands** — fingers and web spaces dressed **separately**. Elevate. Splint wrist in slight extension, MCPs at **90° flexion**, IPs in **extension** — the **anti-deformity position of function**. Early tangential excision + grafting for deep dorsal hand burns.
+	- **Perineum** — exposure. Children: gallows splint. Adults: supine with hips abducted, scrotal support if needed.
+	- **Legs / feet** — elevate to encourage venous drainage; foot board to prevent foot drop. Each toe and web space dressed separately. Unna boots improve outcome. Generally not suitable for outpatient care.
+	- **Circumferential burns** — assess for escharotomy (above).
+	- Source: Baja Ch. 14 pp. 216–217
+- # Complications
+	- ## Early
+		- **Hypovolaemic shock** (first 48 h)
+		- **Infection** — see below
+		- **GI** — acute gastric dilatation, paralytic ileus, **Curling's ulcers** (stomach + duodenum, may bleed or perforate), liver damage
+		- **Cardio-respiratory** — respiratory obstruction, tracheo-bronchitis, pneumonia, atelectasis
+		- **Renal** — pre-renal failure (hypovolaemia), ATN from myoglobinuria / haemoglobinuria
+		- **Cystitis, pyelonephritis, calculi** (from catheterisation + decalcification)
+		- **DVT, pulmonary embolism, thrombophlebitis** — thrombo-embolic prophylaxis with fractionated heparin is essential in major burns
+		- **Anaemia, DIC**
+	- ## Late
+		- **Unstable scars, chronic burn wounds**
+		- **Hypertrophic scar and keloid** — see [[Hypertrophic scar]] / [[Keloid scar]]
+		- **Burn scar contractures and deformities** (cicatricial ectropion, cauliflower ear, microstomia)
+		- **Dyschromic scars** (hypo-, hyper-, depigmentation)
+		- **Burn scar metaplasia → [[Marjolin's ulcer]]** (SCC arising in chronic burn scar)
+		- **Loss of body parts**
+		- **Psychiatric** — anxiety, mood swings, depression, **PTSD / flashbacks** (especially gas-explosion victims). Pre-injury personality matters. Psychotherapy + family + faith support are vital.
+	- Source: Baja Ch. 14 pp. 217–219
+- # Burn-wound sepsis
+	- **Definition**: bacteria actively growing in the burned wound in numbers **> 100,000/g tissue** AND actively invading subjacent unburned tissue.
+	- Untreated → accounts for **~75 % of deaths**.
+	- **Time-course of colonisation**: gram-positives in first 24 h → gram-negatives predominate by Day 5–7.
+	- **Common organisms**: *Pseudomonas, Proteus, Aerobacter, E. coli* and other coliforms, *Staphylococci, Streptococci*; occasionally *Clostridium tetani*. In severe debilitated patients: opportunistic fungi and viruses.
+	- **Investigations**: wound swab + wound biopsy (microscopy, culture, sensitivity), blood culture, WCC, urinalysis + urine culture, broncho-alveolar lavage if inhalation injury.
+	- **Prevention**: penicillin derivative + topical antimicrobial on admission; frequent dressing changes; slough excision; early grafting. Children: **gamma globulin 1 mg/kg IV** on Day 0, 3, and 5 has been recommended.
+	- **Established sepsis**: broad-spectrum antibiotic until C&S results → targeted therapy. Blood transfusion + adequate fluid replacement.
+	- Source: Baja Ch. 14 pp. 217–218
+- # Causes of death
+	- 1. **Hypovolaemic shock** — first 48 h
+	- 2. **Renal failure** — pre-renal or ATN (from pigmenturia)
+	- 3. **Sepsis** — local or septicaemia, often with endotoxic shock; tetanus
+	- 4. **Pulmonary** — laryngo-tracheo-bronchitis, pulmonary oedema, pneumonia (**Respiratory tract infection accounts for 50 % of burn sepsis AND 50 % of deaths**)
+	- 5. **Multi-organ failure** (> 50 % of burn deaths in some series)
+	- Source: Baja Ch. 14 p. 219
+- # Prognosis
+	- Modern burn centres: ~**50 % survival** for **70–80 % TBSA** burns.
+	- Above 80 % TBSA — chances of survival slight.
+	- Worse outcomes at **extremes of age** (< 3 y, > 60 y) and with severe base deficit in first 24 h, **inhalation injury**, concomitant illness.
+	- Source: Baja Ch. 14 p. 219
+- # Burn scar management — preventing hypertrophy
+	- Collagen biosynthesis is increased for **at least 1 year** post-burn → high tendency to [[Hypertrophic scar]].
+	- **Sustained uniform pressure of 25 mmHg** induces scar maturation — **Jobst elastic garment** tailored to the body part.
+	- Effect is maximal when applied **within 3 months of injury**.
+	- **Silicone gel** induces scar maturation (mechanism unclear).
+	- Early **physiotherapy**, **splints**, **hot paraffin baths** all improve scar quality.
+	- Source: Baja Ch. 14 p. 216
+- # Electrical injuries
+	- ## Pathophysiology
+		- Severity depends on **resistance** (highest in bone, least in nerves), **amperage**, **type (AC vs DC)**, **duration**.
+		- **AC > DC** in danger (tetanic effect keeps victim at source).
+		- AC can affect the SAN → arrhythmia.
+		- Classification: **low-voltage** (< 1000 V) vs **high-voltage** (≥ 1000 V).
+		- Same-limb entry & exit → minimal damage; opposite-limb → severe.
+	- ## Sequelae
+		- Instant death — cardiac arrest, respiratory arrest, VF
+		- Shock + LOC; thrown-away victims may have head / abdominal / skeletal injuries
+		- Vessel injury: dilation, rupture, thrombosis → distal ischaemia; permanent narrowing
+		- Nerve damage — transient loss of function, or permanent
+		- Burn — low-voltage: small + deep on hand. High-voltage: large + deep with massive deeper tissue destruction. Fluid loss massive but **NOT estimable from surface area**.
+		- Massive muscle + RBC breakdown → **myoglobinuria, haemoglobinuria, port-wine urine** → ATN
+		- Sepsis from massive tissue necrosis
+		- Late: cataract (head contact); spinal cord (paraplegia / quadriplegia); abnormal gait, impotence, bladder dysfunction; convulsions; intractable headache; deformities
+	- ## Management
+		- **Fluid**: Ringer's lactate rapidly until UO = 1–2 mL/kg/h. **Mannitol** 25 g bolus then 12.5 g hourly for myoglobinuria + alkalinise urine with molar bicarbonate 80–120 mL.
+		- **Excise necrotic muscle** immediately.
+		- **Antibiotics + IM Tetanol**.
+		- **Low threshold for early fasciotomy** in extremity electrical burns (compartment syndrome risk).
+		- **Early amputation** if a limb is beyond salvage at presentation.
+		- Wound: exposure or silver sulphadiazine; debridement; skin graft cover for definitive closure.
+	- Source: Baja Ch. 14 pp. 221–222
+- # Chemical burns
+	- Acids and alkalis (industrial accidents in West Africa); increasingly also **assault** with face often targeted → high incidence of **ocular injury with loss of sight**.
+	- **Immediate copious water irrigation** — water is the safest irrigant regardless of chemical type.
+	- **In hospital**: continue eye irrigation with **1–2 L normal saline**. Morgan's lens facilitates this. **Ophthalmology consult mandatory**.
+	- Cut clothes off (don't pull over head). Brush off powders before irrigating.
+	- Tend to heal with **florid hypertrophic scarring** → **early excision + skin grafting** for most deep chemical burns. Compression garments help.
+	- Source: Baja Ch. 14 pp. 221–222
+- # Radiation burns
+	- Uncommon in the sub-region; increasingly seen with radiotherapy.
+	- Treatment principles same as for thermal burns, but note **progressive effect on blood vessels**. Once eschar separates and healthy granulation forms, cover with skin grafting.
+	- Source: Baja Ch. 14 p. 222
+- # Prevention
+	- "Common denominators are **ignorance, carelessness, and poverty**." Education is the mainstay.
+	- **Domestic**: store matches out of reach of children; cook on raised surfaces with stable utensils + handles of non-conducting material; don't refill stoves while still hot; don't use matches to look for gas leaks; supervise epileptics / children / infirm near open fires.
+	- **Petroleum**: do not store at home; no open flames during exposure; use torchlight at night filling stations; service stations to display fire extinguishers + no-smoking signage.
+	- **Buildings**: well-planned, ventilated, non-flammable materials; ban flammable clothing imports.
+	- **Electrical**: trained technicians; rural education during electrification; avoid standing under tall trees during thunderstorms.
+	- **Industrial**: safety officers, fire drills, accessible extinguishers.
+	- Source: Baja Ch. 14 pp. 219–220
+- # Related
+	- [[Burn]], [[Burn estimation]], [[Burn fluid resuscitation]], [[Wound]], [[Wound healing]], [[Hypertrophic scar]], [[Keloid scar]], [[Marjolin's ulcer]], [[Shock]], [[Septic shock]], [[Sepsis]]

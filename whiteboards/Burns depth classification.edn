@@ -1,0 +1,522 @@
+{:blocks (
+{:block/created-at 1747600000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "text"
+:id "8a7b1000-0000-4000-8000-0000000030000"
+:parentId "8a7b1000-0000-4000-8000-000000000030"
+:point [240 20]
+:size [640 50]
+:index 1000
+:scale [1 1]
+:scaleLevel "xl"
+:stroke ""
+:fill ""
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:padding 4
+:fontWeight 700
+:noFill true
+:lineHeight 1.2
+:fontSize 26
+:italic false
+:text "Burns depth classification — 3-way mapping (Baja Table 14.1)"
+:nonce 1747600000000}}
+:block/updated-at 1747600000000}
+{:block/created-at 1747600000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box"
+:id "8a7b1000-0000-4000-8000-0000000030010"
+:parentId "8a7b1000-0000-4000-8000-000000000030"
+:point [80 90]
+:size [320 50]
+:index 2
+:scale [1 1]
+:scaleLevel "md"
+:stroke "#2d3748"
+:fill "#edf2f7"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:borderRadius 4
+:noFill false
+:label "TRADITIONAL\n(by depth)"
+:fontSize 14
+:fontWeight 700
+:italic false
+:nonce 1747600000000}}
+:block/updated-at 1747600000000}
+{:block/created-at 1747600000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box"
+:id "8a7b1000-0000-4000-8000-0000000030011"
+:parentId "8a7b1000-0000-4000-8000-000000000030"
+:point [418 90]
+:size [320 50]
+:index 2
+:scale [1 1]
+:scaleLevel "md"
+:stroke "#2c5282"
+:fill "#ebf8ff"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:borderRadius 4
+:noFill false
+:label "CONTEMPORARY\n(therapeutic depth)"
+:fontSize 14
+:fontWeight 700
+:italic false
+:nonce 1747600000000}}
+:block/updated-at 1747600000000}
+{:block/created-at 1747600000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box"
+:id "8a7b1000-0000-4000-8000-0000000030012"
+:parentId "8a7b1000-0000-4000-8000-000000000030"
+:point [756 90]
+:size [320 50]
+:index 2
+:scale [1 1]
+:scaleLevel "md"
+:stroke "#22543d"
+:fill "#f0fff4"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:borderRadius 4
+:noFill false
+:label "RADICAL\n(by treatment requirement)"
+:fontSize 14
+:fontWeight 700
+:italic false
+:nonce 1747600000000}}
+:block/updated-at 1747600000000}
+{:block/created-at 1747600000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box"
+:id "8a7b1000-0000-4000-8000-0000000030020"
+:parentId "8a7b1000-0000-4000-8000-000000000030"
+:point [80 154]
+:size [320 110]
+:index 10
+:scale [1 1]
+:scaleLevel "md"
+:stroke "#3182ce"
+:fill "#ebf8ff"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:borderRadius 4
+:noFill false
+:label "1°\nEpidermis\nErythema\nHeals 5–7 days, no scarring"
+:fontSize 13
+:fontWeight 500
+:italic false
+:nonce 1747600000000}}
+:block/updated-at 1747600000000}
+{:block/created-at 1747600000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box"
+:id "8a7b1000-0000-4000-8000-0000000030021"
+:parentId "8a7b1000-0000-4000-8000-000000000030"
+:point [418 154]
+:size [320 110]
+:index 11
+:scale [1 1]
+:scaleLevel "md"
+:stroke "#3182ce"
+:fill "#ebf8ff"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:borderRadius 4
+:noFill false
+:label "Superficial Partial Thickness"
+:fontSize 14
+:fontWeight 600
+:italic false
+:nonce 1747600000000}}
+:block/updated-at 1747600000000}
+{:block/created-at 1747600000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box"
+:id "8a7b1000-0000-4000-8000-0000000030022"
+:parentId "8a7b1000-0000-4000-8000-000000000030"
+:point [756 154]
+:size [320 110]
+:index 12
+:scale [1 1]
+:scaleLevel "md"
+:stroke "#3182ce"
+:fill "#ebf8ff"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:borderRadius 4
+:noFill false
+:label "SUPERFICIAL BURN\n\nNo surgical intervention\nrequired —\nheals with conservative\nwound care"
+:fontSize 13
+:fontWeight 500
+:italic false
+:nonce 1747600000000}}
+:block/updated-at 1747600000000}
+{:block/created-at 1747600000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box"
+:id "8a7b1000-0000-4000-8000-0000000030023"
+:parentId "8a7b1000-0000-4000-8000-000000000030"
+:point [80 278]
+:size [320 110]
+:index 13
+:scale [1 1]
+:scaleLevel "md"
+:stroke "#d69e2e"
+:fill "#fffaf0"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:borderRadius 4
+:noFill false
+:label "2° SUPERFICIAL\nPapillary dermis\nBlistering, Blanching\nHeals < 3 wks, no scarring"
+:fontSize 13
+:fontWeight 500
+:italic false
+:nonce 1747600000000}}
+:block/updated-at 1747600000000}
+{:block/created-at 1747600000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box"
+:id "8a7b1000-0000-4000-8000-0000000030024"
+:parentId "8a7b1000-0000-4000-8000-000000000030"
+:point [418 278]
+:size [320 110]
+:index 14
+:scale [1 1]
+:scaleLevel "md"
+:stroke "#d69e2e"
+:fill "#fffaf0"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:borderRadius 4
+:noFill false
+:label "Superficial Partial Thickness"
+:fontSize 14
+:fontWeight 600
+:italic false
+:nonce 1747600000000}}
+:block/updated-at 1747600000000}
+{:block/created-at 1747600000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box"
+:id "8a7b1000-0000-4000-8000-0000000030025"
+:parentId "8a7b1000-0000-4000-8000-000000000030"
+:point [756 278]
+:size [320 110]
+:index 15
+:scale [1 1]
+:scaleLevel "md"
+:stroke "#d69e2e"
+:fill "#fffaf0"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:borderRadius 4
+:noFill false
+:label "(same as above)"
+:fontSize 13
+:fontWeight 500
+:italic false
+:nonce 1747600000000}}
+:block/updated-at 1747600000000}
+{:block/created-at 1747600000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box"
+:id "8a7b1000-0000-4000-8000-0000000030026"
+:parentId "8a7b1000-0000-4000-8000-000000000030"
+:point [80 402]
+:size [320 110]
+:index 16
+:scale [1 1]
+:scaleLevel "md"
+:stroke "#dd6b20"
+:fill "#fff5f5"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:borderRadius 4
+:noFill false
+:label "2° DEEP\nReticular dermis\nMottled, Whitening,\nNon-blanching\nHeals > 3 wks, scarring"
+:fontSize 13
+:fontWeight 500
+:italic false
+:nonce 1747600000000}}
+:block/updated-at 1747600000000}
+{:block/created-at 1747600000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box"
+:id "8a7b1000-0000-4000-8000-0000000030027"
+:parentId "8a7b1000-0000-4000-8000-000000000030"
+:point [418 402]
+:size [320 110]
+:index 17
+:scale [1 1]
+:scaleLevel "md"
+:stroke "#dd6b20"
+:fill "#fff5f5"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:borderRadius 4
+:noFill false
+:label "Deep Partial Thickness"
+:fontSize 14
+:fontWeight 600
+:italic false
+:nonce 1747600000000}}
+:block/updated-at 1747600000000}
+{:block/created-at 1747600000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box"
+:id "8a7b1000-0000-4000-8000-0000000030028"
+:parentId "8a7b1000-0000-4000-8000-000000000030"
+:point [756 402]
+:size [320 110]
+:index 18
+:scale [1 1]
+:scaleLevel "md"
+:stroke "#dd6b20"
+:fill "#fff5f5"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:borderRadius 4
+:noFill false
+:label "DEEP BURN\n\nSurgical intervention\nrequired —\nearly excision + grafting"
+:fontSize 13
+:fontWeight 500
+:italic false
+:nonce 1747600000000}}
+:block/updated-at 1747600000000}
+{:block/created-at 1747600000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box"
+:id "8a7b1000-0000-4000-8000-0000000030029"
+:parentId "8a7b1000-0000-4000-8000-000000000030"
+:point [80 526]
+:size [320 110]
+:index 19
+:scale [1 1]
+:scaleLevel "md"
+:stroke "#c53030"
+:fill "#fff5f5"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:borderRadius 4
+:noFill false
+:label "3° (FULL THICKNESS)\nSubcutaneous involved\nLeathery, insensate,\nthrombosed vessels\nNo spontaneous healing"
+:fontSize 13
+:fontWeight 500
+:italic false
+:nonce 1747600000000}}
+:block/updated-at 1747600000000}
+{:block/created-at 1747600000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box"
+:id "8a7b1000-0000-4000-8000-0000000030030"
+:parentId "8a7b1000-0000-4000-8000-000000000030"
+:point [418 526]
+:size [320 110]
+:index 20
+:scale [1 1]
+:scaleLevel "md"
+:stroke "#c53030"
+:fill "#fff5f5"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:borderRadius 4
+:noFill false
+:label "Full Thickness"
+:fontSize 14
+:fontWeight 600
+:italic false
+:nonce 1747600000000}}
+:block/updated-at 1747600000000}
+{:block/created-at 1747600000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box"
+:id "8a7b1000-0000-4000-8000-0000000030031"
+:parentId "8a7b1000-0000-4000-8000-000000000030"
+:point [756 526]
+:size [320 110]
+:index 21
+:scale [1 1]
+:scaleLevel "md"
+:stroke "#c53030"
+:fill "#fff5f5"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:borderRadius 4
+:noFill false
+:label "(same as above)"
+:fontSize 13
+:fontWeight 500
+:italic false
+:nonce 1747600000000}}
+:block/updated-at 1747600000000}
+{:block/created-at 1747600000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box"
+:id "8a7b1000-0000-4000-8000-0000000030032"
+:parentId "8a7b1000-0000-4000-8000-000000000030"
+:point [80 650]
+:size [320 110]
+:index 22
+:scale [1 1]
+:scaleLevel "md"
+:stroke "#742a2a"
+:fill "#fff5f5"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:borderRadius 4
+:noFill false
+:label "4° CHARRED\nMuscle / joint / bone\nNo spontaneous healing"
+:fontSize 13
+:fontWeight 500
+:italic false
+:nonce 1747600000000}}
+:block/updated-at 1747600000000}
+{:block/created-at 1747600000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box"
+:id "8a7b1000-0000-4000-8000-0000000030033"
+:parentId "8a7b1000-0000-4000-8000-000000000030"
+:point [418 650]
+:size [320 110]
+:index 23
+:scale [1 1]
+:scaleLevel "md"
+:stroke "#742a2a"
+:fill "#fff5f5"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:borderRadius 4
+:noFill false
+:label "Full Thickness"
+:fontSize 14
+:fontWeight 600
+:italic false
+:nonce 1747600000000}}
+:block/updated-at 1747600000000}
+{:block/created-at 1747600000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box"
+:id "8a7b1000-0000-4000-8000-0000000030034"
+:parentId "8a7b1000-0000-4000-8000-000000000030"
+:point [756 650]
+:size [320 110]
+:index 24
+:scale [1 1]
+:scaleLevel "md"
+:stroke "#742a2a"
+:fill "#fff5f5"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:borderRadius 4
+:noFill false
+:label "(same as above)"
+:fontSize 13
+:fontWeight 500
+:italic false
+:nonce 1747600000000}}
+:block/updated-at 1747600000000}
+{:block/created-at 1747600000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box"
+:id "8a7b1000-0000-4000-8000-0000000030099"
+:parentId "8a7b1000-0000-4000-8000-000000000030"
+:point [80 790]
+:size [996 80]
+:index 100
+:scale [1 1]
+:scaleLevel "md"
+:stroke "#805ad5"
+:fill "#faf5ff"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:borderRadius 4
+:noFill false
+:label "KEY TAKEAWAY — modern practice favours the RADICAL view:\ndeep partial-thickness through fourth-degree burns are best served by EARLY EXCISION + SKIN GRAFTING\nto avoid unfavourable scarring (Baja Ch. 14 p. 208)."
+:fontSize 13
+:fontWeight 600
+:italic false
+:nonce 1747600000000}}
+:block/updated-at 1747600000000}
+)
+:pages (
+{:block/uuid #uuid "8a7b1000-0000-4000-8000-000000000030"
+:block/properties
+{:ls-type :whiteboard-page
+:logseq.tldraw.page
+{:id "8a7b1000-0000-4000-8000-000000000030"
+:name "Burns depth classification"
+:bindings {}
+:nonce 0
+:assets []
+:shapes-index ("8a7b1000-0000-4000-8000-0000000030000" "8a7b1000-0000-4000-8000-0000000030010" "8a7b1000-0000-4000-8000-0000000030011" "8a7b1000-0000-4000-8000-0000000030012" "8a7b1000-0000-4000-8000-0000000030020" "8a7b1000-0000-4000-8000-0000000030021" "8a7b1000-0000-4000-8000-0000000030022" "8a7b1000-0000-4000-8000-0000000030023" "8a7b1000-0000-4000-8000-0000000030024" "8a7b1000-0000-4000-8000-0000000030025" "8a7b1000-0000-4000-8000-0000000030026" "8a7b1000-0000-4000-8000-0000000030027" "8a7b1000-0000-4000-8000-0000000030028" "8a7b1000-0000-4000-8000-0000000030029" "8a7b1000-0000-4000-8000-0000000030030" "8a7b1000-0000-4000-8000-0000000030031" "8a7b1000-0000-4000-8000-0000000030032" "8a7b1000-0000-4000-8000-0000000030033" "8a7b1000-0000-4000-8000-0000000030034" "8a7b1000-0000-4000-8000-0000000030099")}}
+:block/journal? false
+:block/updated-at 1747600000000
+:block/created-at 1747600000000
+:block/type "whiteboard"
+:block/name "Burns depth classification"
+:block/original-name "Burns depth classification"})}
+
