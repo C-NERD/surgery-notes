@@ -1,0 +1,208 @@
+{:blocks (
+{:block/created-at 1747710000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "text" :id "8a7b1000-0000-4000-8000-000000006900" :parentId "8a7b1000-0000-4000-8000-000000000060"
+:point [120 20] :size [520 50] :index 1000 :scale [1 1] :scaleLevel "xl"
+:stroke "" :fill "" :fontFamily "var(--ls-font-family)" :strokeType "line" :strokeWidth 2 :opacity 1
+:padding 4 :fontWeight 700 :noFill true :lineHeight 1.2 :fontSize 26 :italic false
+:text "Pre-operative assessment flow" :nonce 1747710000000}}
+:block/updated-at 1747710000000}
+{:block/created-at 1747710000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box" :id "8a7b1000-0000-4000-8000-000000006000" :parentId "8a7b1000-0000-4000-8000-000000000060"
+:point [200 120] :size [380 100]
+:index 1 :scale [1 1] :scaleLevel "md"
+:stroke "#4a5568" :fill "#edf2f7" :strokeType "line" :strokeWidth 2 :opacity 1
+:borderRadius 6 :noFill false :label "1. REFERRAL / ADMISSION\n\nPatient identified for elective or emergency surgery" :fontSize 13 :fontWeight 500 :italic false :nonce 1747710000000}}
+:block/updated-at 1747710000000}
+{:block/created-at 1747710000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "line" :id "8a7b1000-0000-4000-8000-000000006100" :parentId "8a7b1000-0000-4000-8000-000000000060"
+:point [390 220] :index 100 :scale [1 1] :scaleLevel "sm"
+:stroke "#4a5568" :fill "" :strokeType "line" :strokeWidth 2 :opacity 1
+:noFill true :label "" :fontSize 12 :fontWeight 500 :italic true
+:handles {:start {:id "start" :canBind true :point [0 0] :bindingId nil}
+:end {:id "end" :canBind true :point [0 60] :bindingId nil}}
+:decorations {:end "arrow"} :nonce 1747710000000}}
+:block/updated-at 1747710000000}
+{:block/created-at 1747710000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box" :id "8a7b1000-0000-4000-8000-000000006001" :parentId "8a7b1000-0000-4000-8000-000000000060"
+:point [200 280] :size [380 100]
+:index 2 :scale [1 1] :scaleLevel "md"
+:stroke "#3182ce" :fill "#ebf8ff" :strokeType "line" :strokeWidth 2 :opacity 1
+:borderRadius 6 :noFill false :label "2. HISTORY\n\nPrevious illness, surgery/anaesthetic experience,\nconcurrent disease, drugs, social (alcohol/tobacco)" :fontSize 13 :fontWeight 500 :italic false :nonce 1747710000000}}
+:block/updated-at 1747710000000}
+{:block/created-at 1747710000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "line" :id "8a7b1000-0000-4000-8000-000000006101" :parentId "8a7b1000-0000-4000-8000-000000000060"
+:point [390 380] :index 101 :scale [1 1] :scaleLevel "sm"
+:stroke "#4a5568" :fill "" :strokeType "line" :strokeWidth 2 :opacity 1
+:noFill true :label "" :fontSize 12 :fontWeight 500 :italic true
+:handles {:start {:id "start" :canBind true :point [0 0] :bindingId nil}
+:end {:id "end" :canBind true :point [0 60] :bindingId nil}}
+:decorations {:end "arrow"} :nonce 1747710000000}}
+:block/updated-at 1747710000000}
+{:block/created-at 1747710000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box" :id "8a7b1000-0000-4000-8000-000000006002" :parentId "8a7b1000-0000-4000-8000-000000000060"
+:point [200 440] :size [380 100]
+:index 3 :scale [1 1] :scaleLevel "md"
+:stroke "#3182ce" :fill "#ebf8ff" :strokeType "line" :strokeWidth 2 :opacity 1
+:borderRadius 6 :noFill false :label "3. EXAMINATION\n\nAll systems: resp, CVS, urinary, GI, blood,\nnutrition, neuro, psych" :fontSize 13 :fontWeight 500 :italic false :nonce 1747710000000}}
+:block/updated-at 1747710000000}
+{:block/created-at 1747710000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "line" :id "8a7b1000-0000-4000-8000-000000006102" :parentId "8a7b1000-0000-4000-8000-000000000060"
+:point [390 540] :index 102 :scale [1 1] :scaleLevel "sm"
+:stroke "#4a5568" :fill "" :strokeType "line" :strokeWidth 2 :opacity 1
+:noFill true :label "" :fontSize 12 :fontWeight 500 :italic true
+:handles {:start {:id "start" :canBind true :point [0 0] :bindingId nil}
+:end {:id "end" :canBind true :point [0 60] :bindingId nil}}
+:decorations {:end "arrow"} :nonce 1747710000000}}
+:block/updated-at 1747710000000}
+{:block/created-at 1747710000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box" :id "8a7b1000-0000-4000-8000-000000006003" :parentId "8a7b1000-0000-4000-8000-000000000060"
+:point [200 600] :size [380 100]
+:index 4 :scale [1 1] :scaleLevel "md"
+:stroke "#d69e2e" :fill "#fffaf0" :strokeType "line" :strokeWidth 2 :opacity 1
+:borderRadius 6 :noFill false :label "4. RISK STRATIFICATION\n\nASA grade (I–VI ± E)\n+ Lee's RCRI cardiac predictors\n+ functional capacity (METs)" :fontSize 13 :fontWeight 500 :italic false :nonce 1747710000000}}
+:block/updated-at 1747710000000}
+{:block/created-at 1747710000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "line" :id "8a7b1000-0000-4000-8000-000000006103" :parentId "8a7b1000-0000-4000-8000-000000000060"
+:point [390 700] :index 103 :scale [1 1] :scaleLevel "sm"
+:stroke "#4a5568" :fill "" :strokeType "line" :strokeWidth 2 :opacity 1
+:noFill true :label "" :fontSize 12 :fontWeight 500 :italic true
+:handles {:start {:id "start" :canBind true :point [0 0] :bindingId nil}
+:end {:id "end" :canBind true :point [0 60] :bindingId nil}}
+:decorations {:end "arrow"} :nonce 1747710000000}}
+:block/updated-at 1747710000000}
+{:block/created-at 1747710000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box" :id "8a7b1000-0000-4000-8000-000000006004" :parentId "8a7b1000-0000-4000-8000-000000000060"
+:point [200 760] :size [380 100]
+:index 5 :scale [1 1] :scaleLevel "md"
+:stroke "#d69e2e" :fill "#fffaf0" :strokeType "line" :strokeWidth 2 :opacity 1
+:borderRadius 6 :noFill false :label "5. INVESTIGATIONS\n\nBaja minimums: Hb / urine / stool / FBS / BUE\n+ CXR + ECG if HTN or >40 y\n+ stratified extras (see ASA × surgery whiteboard)" :fontSize 13 :fontWeight 500 :italic false :nonce 1747710000000}}
+:block/updated-at 1747710000000}
+{:block/created-at 1747710000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "line" :id "8a7b1000-0000-4000-8000-000000006104" :parentId "8a7b1000-0000-4000-8000-000000000060"
+:point [390 860] :index 104 :scale [1 1] :scaleLevel "sm"
+:stroke "#4a5568" :fill "" :strokeType "line" :strokeWidth 2 :opacity 1
+:noFill true :label "" :fontSize 12 :fontWeight 500 :italic true
+:handles {:start {:id "start" :canBind true :point [0 0] :bindingId nil}
+:end {:id "end" :canBind true :point [0 60] :bindingId nil}}
+:decorations {:end "arrow"} :nonce 1747710000000}}
+:block/updated-at 1747710000000}
+{:block/created-at 1747710000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box" :id "8a7b1000-0000-4000-8000-000000006005" :parentId "8a7b1000-0000-4000-8000-000000000060"
+:point [200 920] :size [380 100]
+:index 6 :scale [1 1] :scaleLevel "md"
+:stroke "#38a169" :fill "#f0fff4" :strokeType "line" :strokeWidth 2 :opacity 1
+:borderRadius 6 :noFill false :label "6. OPTIMISATION\n\nTreat anaemia, HTN, DM, infections;\nnutrition; smoking + alcohol cessation;\nMDT input" :fontSize 13 :fontWeight 500 :italic false :nonce 1747710000000}}
+:block/updated-at 1747710000000}
+{:block/created-at 1747710000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "line" :id "8a7b1000-0000-4000-8000-000000006105" :parentId "8a7b1000-0000-4000-8000-000000000060"
+:point [390 1020] :index 105 :scale [1 1] :scaleLevel "sm"
+:stroke "#4a5568" :fill "" :strokeType "line" :strokeWidth 2 :opacity 1
+:noFill true :label "" :fontSize 12 :fontWeight 500 :italic true
+:handles {:start {:id "start" :canBind true :point [0 0] :bindingId nil}
+:end {:id "end" :canBind true :point [0 60] :bindingId nil}}
+:decorations {:end "arrow"} :nonce 1747710000000}}
+:block/updated-at 1747710000000}
+{:block/created-at 1747710000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box" :id "8a7b1000-0000-4000-8000-000000006006" :parentId "8a7b1000-0000-4000-8000-000000000060"
+:point [200 1080] :size [380 100]
+:index 7 :scale [1 1] :scaleLevel "md"
+:stroke "#38a169" :fill "#f0fff4" :strokeType "line" :strokeWidth 2 :opacity 1
+:borderRadius 6 :noFill false :label "7. CONSENT\n\nDiscuss nature, options, pros/cons, costs,\ncomplications, outcomes — written consent" :fontSize 13 :fontWeight 500 :italic false :nonce 1747710000000}}
+:block/updated-at 1747710000000}
+{:block/created-at 1747710000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "line" :id "8a7b1000-0000-4000-8000-000000006106" :parentId "8a7b1000-0000-4000-8000-000000000060"
+:point [390 1180] :index 106 :scale [1 1] :scaleLevel "sm"
+:stroke "#4a5568" :fill "" :strokeType "line" :strokeWidth 2 :opacity 1
+:noFill true :label "" :fontSize 12 :fontWeight 500 :italic true
+:handles {:start {:id "start" :canBind true :point [0 0] :bindingId nil}
+:end {:id "end" :canBind true :point [0 60] :bindingId nil}}
+:decorations {:end "arrow"} :nonce 1747710000000}}
+:block/updated-at 1747710000000}
+{:block/created-at 1747710000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box" :id "8a7b1000-0000-4000-8000-000000006007" :parentId "8a7b1000-0000-4000-8000-000000000060"
+:point [200 1240] :size [380 100]
+:index 8 :scale [1 1] :scaleLevel "md"
+:stroke "#805ad5" :fill "#faf5ff" :strokeType "line" :strokeWidth 2 :opacity 1
+:borderRadius 6 :noFill false :label "8. FASTING + PREP\n\nAdults: 6 h food, 2–3 h clear fluids;\nbowel prep if colonic; remove dentures;\npre-anaesthetic medication ~1 h pre-op" :fontSize 13 :fontWeight 500 :italic false :nonce 1747710000000}}
+:block/updated-at 1747710000000}
+{:block/created-at 1747710000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "line" :id "8a7b1000-0000-4000-8000-000000006107" :parentId "8a7b1000-0000-4000-8000-000000000060"
+:point [390 1340] :index 107 :scale [1 1] :scaleLevel "sm"
+:stroke "#4a5568" :fill "" :strokeType "line" :strokeWidth 2 :opacity 1
+:noFill true :label "" :fontSize 12 :fontWeight 500 :italic true
+:handles {:start {:id "start" :canBind true :point [0 0] :bindingId nil}
+:end {:id "end" :canBind true :point [0 60] :bindingId nil}}
+:decorations {:end "arrow"} :nonce 1747710000000}}
+:block/updated-at 1747710000000}
+{:block/created-at 1747710000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box" :id "8a7b1000-0000-4000-8000-000000006008" :parentId "8a7b1000-0000-4000-8000-000000000060"
+:point [200 1400] :size [380 100]
+:index 9 :scale [1 1] :scaleLevel "md"
+:stroke "#c53030" :fill "#fff5f5" :strokeType "line" :strokeWidth 2 :opacity 1
+:borderRadius 6 :noFill false :label "9. THEATRE\n\nID check; final WHO surgical safety checklist" :fontSize 13 :fontWeight 500 :italic false :nonce 1747710000000}}
+:block/updated-at 1747710000000}
+)
+:pages (
+{:block/uuid #uuid "8a7b1000-0000-4000-8000-000000000060"
+:block/properties
+{:ls-type :whiteboard-page
+:logseq.tldraw.page
+{:id "8a7b1000-0000-4000-8000-000000000060" :name "Pre-op assessment flow"
+:bindings {} :nonce 0 :assets [] :shapes-index ("8a7b1000-0000-4000-8000-000000006900" "8a7b1000-0000-4000-8000-000000006000" "8a7b1000-0000-4000-8000-000000006100" "8a7b1000-0000-4000-8000-000000006001" "8a7b1000-0000-4000-8000-000000006101" "8a7b1000-0000-4000-8000-000000006002" "8a7b1000-0000-4000-8000-000000006102" "8a7b1000-0000-4000-8000-000000006003" "8a7b1000-0000-4000-8000-000000006103" "8a7b1000-0000-4000-8000-000000006004" "8a7b1000-0000-4000-8000-000000006104" "8a7b1000-0000-4000-8000-000000006005" "8a7b1000-0000-4000-8000-000000006105" "8a7b1000-0000-4000-8000-000000006006" "8a7b1000-0000-4000-8000-000000006106" "8a7b1000-0000-4000-8000-000000006007" "8a7b1000-0000-4000-8000-000000006107" "8a7b1000-0000-4000-8000-000000006008")}}
+:block/journal? false :block/updated-at 1747710000000 :block/created-at 1747710000000
+:block/type "whiteboard" :block/name "Pre-op assessment flow" :block/original-name "Pre-op assessment flow"})}
+

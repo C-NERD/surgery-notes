@@ -1,0 +1,12 @@
+
+- # Perioperative care
+	- **Definition** — integrated care of the surgical patient across three phases: **pre-, intra- (peri-), and post-operative**.
+		- Source: Perioperative Care lecture (UDUTH, Apr 2024) slides 8–9
+	- **Aim of the pre-op assessment** — detect and, if possible, correct conditions that increase the risk of anaesthesia and surgery (anaemia, hypertension, diabetes, electrolyte imbalance, hypovolaemia, CCF, respiratory disease).
+		- *If gross disease is found → postpone unless emergency. Even then, resuscitation + anaesthesia + surgery may proceed pari passu.*
+		- Source: Baja Ch. 15 p. 223
+	- ## Sub-pages
+		- [[ASA physical status classification]] — grading system used for risk stratification
+		- [[Pre-operative assessment]] — history, examination, optimisation, consent, fasting
+		- [[Pre-operative investigations]] — minimum + indicated tests, stratified by ASA and surgery type
+	- Related: [[History Taking]], [[Normal Homeostatic Values]]

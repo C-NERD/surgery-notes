@@ -1,0 +1,50 @@
+
+- # Pre-operative investigations
+	- ## Baja's minimum investigations — done in every patient
+		- 1. **Haemoglobin, haematocrit, sickling**
+		- 2. **Urine** for albumin, sugar, casts
+		- 3. **Stool** for amoebae and worms
+		- 4. **Fasting blood sugar**
+		- 5. **Blood urea and electrolytes**
+		- Source: Baja Ch. 15 p. 226
+	- ## Additional — hypertensives and patients > 40 years
+		- 6. **Chest X-ray**
+		- 7. **ECG**
+		- Source: Baja Ch. 15 p. 226
+	- ## When indicated
+		- Full blood count
+		- Sickling electrophoresis
+		- **Blood group and cross-matching**
+		- CXR (large thyroids → X-ray of neck + thoracic inlet)
+		- ECG (cardiovascular conditions)
+		- Plasma proteins (malnutrition, liver disease)
+		- G6PD
+		- FBS (diabetics)
+		- PT, INR, bleeding/clotting times (bleeding tendency, anticoagulants)
+		- Source: Baja Ch. 15 p. 226
+	- ## ASA grade × surgery complexity — when to order what (Perioperative Care lecture slides 14–16)
+		- | Surgery type | ASA I–II | ASA III–IV |
+		- | --- | --- | --- |
+		- | **Minor** (e.g. excising skin lesion) | No routine labs | No routine labs |
+		- | **Intermediate** (e.g. hernia repair) | RFT only if AKI risk | RFT (if HTN or renal disease); FBC; coag tests if liver disease or on anticoagulants |
+		- | **Major / complex** | FBC + RFT (RFT only if AKI risk in ASA I) | FBC + RFT; consider coag in chronic liver disease or anticoagulated |
+		- Source: Perioperative Care lecture slides 14–16
+	- ## Child-Pugh score — assess chronic liver disease pre-op
+		- | Parameter | 1 pt | 2 pt | 3 pt |
+		- | --- | --- | --- | --- |
+		- | **Bilirubin** (µmol/L) | < 25 | 25–40 | > 40 |
+		- | **Albumin** (g/L) | > 35 | 28–35 | < 28 |
+		- | **PT prolongation** (s) | < 4 | 4–6 | > 6 |
+		- | **Encephalopathy** | None | 1–2 | 3–4 |
+		- *Risk*: A ≤ 6 = good · B = 9 = moderate · C > 10 = poor
+		- Source: Baja Ch. 15 p. 227
+	- ## Malnutrition assessment
+		- **Severe** — < 70 % IBW; < 75 % UBW; BMI < 16
+		- **Moderate** — 80–89 % IBW; BMI 17–18.5
+		- **Appropriate** — 90–110 % IBW; BMI 18.5–24.9
+		- Weight loss > 10 % over 6 mo, or > 5 % over 1 mo = significant.
+		- Indices: lymphocyte count, **serum albumin** (long half-life), **pre-albumin** (short half-life — best acute marker), transferrin.
+		- Albumin < 3.5 g/dL or total protein < 5.4 g/dL → compromised immunity + healing → ↑ infection, dehiscence, mortality.
+		- Treatment: high-protein, high-calorie diet + glutamine, arginine, omega-3, iron, vitamins B + C × 7–14 days. Parenteral nutrition if needed.
+		- Source: Baja Ch. 15 pp. 225–226
+	- Related: [[Perioperative care]], [[ASA physical status classification]], [[Pre-operative assessment]], [[Normal Homeostatic Values]]

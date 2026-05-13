@@ -1,0 +1,372 @@
+{:blocks (
+{:block/created-at 1747700000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "text"
+:id "8a7b1000-0000-4000-8000-0000000050000"
+:parentId "8a7b1000-0000-4000-8000-000000000050"
+:point [200 20]
+:size [700 50]
+:index 1000
+:scale [1 1]
+:scaleLevel "xl"
+:stroke ""
+:fill ""
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:padding 4
+:fontWeight 700
+:noFill true
+:lineHeight 1.2
+:fontSize 24
+:italic false
+:text "Pre-op tests by ASA × surgery complexity"
+:nonce 1747700000000}}
+:block/updated-at 1747700000000}
+{:block/created-at 1747700000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box"
+:id "8a7b1000-0000-4000-8000-0000000050010"
+:parentId "8a7b1000-0000-4000-8000-000000000050"
+:point [80 90]
+:size [320 60]
+:index 2
+:scale [1 1]
+:scaleLevel "md"
+:stroke "#2d3748"
+:fill "#edf2f7"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:borderRadius 4
+:noFill false
+:label "SURGERY TYPE"
+:fontSize 15
+:fontWeight 700
+:italic false
+:nonce 1747700000000}}
+:block/updated-at 1747700000000}
+{:block/created-at 1747700000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box"
+:id "8a7b1000-0000-4000-8000-0000000050011"
+:parentId "8a7b1000-0000-4000-8000-000000000050"
+:point [418 90]
+:size [320 60]
+:index 2
+:scale [1 1]
+:scaleLevel "md"
+:stroke "#22543d"
+:fill "#f0fff4"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:borderRadius 4
+:noFill false
+:label "ASA I – II"
+:fontSize 15
+:fontWeight 700
+:italic false
+:nonce 1747700000000}}
+:block/updated-at 1747700000000}
+{:block/created-at 1747700000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box"
+:id "8a7b1000-0000-4000-8000-0000000050012"
+:parentId "8a7b1000-0000-4000-8000-000000000050"
+:point [756 90]
+:size [320 60]
+:index 2
+:scale [1 1]
+:scaleLevel "md"
+:stroke "#742a2a"
+:fill "#fff5f5"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:borderRadius 4
+:noFill false
+:label "ASA III – IV"
+:fontSize 15
+:fontWeight 700
+:italic false
+:nonce 1747700000000}}
+:block/updated-at 1747700000000}
+{:block/created-at 1747700000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box"
+:id "8a7b1000-0000-4000-8000-0000000050020"
+:parentId "8a7b1000-0000-4000-8000-000000000050"
+:point [80 164]
+:size [320 140]
+:index 10
+:scale [1 1]
+:scaleLevel "md"
+:stroke "#3182ce"
+:fill "#ebf8ff"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:borderRadius 4
+:noFill false
+:label "MINOR\ne.g. excising\nskin lesion"
+:fontSize 14
+:fontWeight 600
+:italic false
+:nonce 1747700000000}}
+:block/updated-at 1747700000000}
+{:block/created-at 1747700000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box"
+:id "8a7b1000-0000-4000-8000-0000000050021"
+:parentId "8a7b1000-0000-4000-8000-000000000050"
+:point [418 164]
+:size [320 140]
+:index 11
+:scale [1 1]
+:scaleLevel "md"
+:stroke "#3182ce"
+:fill "#ebf8ff"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:borderRadius 4
+:noFill false
+:label "No routine\npre-op labs"
+:fontSize 13
+:fontWeight 500
+:italic false
+:nonce 1747700000000}}
+:block/updated-at 1747700000000}
+{:block/created-at 1747700000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box"
+:id "8a7b1000-0000-4000-8000-0000000050022"
+:parentId "8a7b1000-0000-4000-8000-000000000050"
+:point [756 164]
+:size [320 140]
+:index 12
+:scale [1 1]
+:scaleLevel "md"
+:stroke "#3182ce"
+:fill "#ebf8ff"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:borderRadius 4
+:noFill false
+:label "No routine\npre-op labs\n(consider RFT if\nAKI risk)"
+:fontSize 13
+:fontWeight 500
+:italic false
+:nonce 1747700000000}}
+:block/updated-at 1747700000000}
+{:block/created-at 1747700000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box"
+:id "8a7b1000-0000-4000-8000-0000000050023"
+:parentId "8a7b1000-0000-4000-8000-000000000050"
+:point [80 318]
+:size [320 140]
+:index 13
+:scale [1 1]
+:scaleLevel "md"
+:stroke "#d69e2e"
+:fill "#fffaf0"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:borderRadius 4
+:noFill false
+:label "INTERMEDIATE\ne.g. hernia repair"
+:fontSize 14
+:fontWeight 600
+:italic false
+:nonce 1747700000000}}
+:block/updated-at 1747700000000}
+{:block/created-at 1747700000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box"
+:id "8a7b1000-0000-4000-8000-0000000050024"
+:parentId "8a7b1000-0000-4000-8000-000000000050"
+:point [418 318]
+:size [320 140]
+:index 14
+:scale [1 1]
+:scaleLevel "md"
+:stroke "#d69e2e"
+:fill "#fffaf0"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:borderRadius 4
+:noFill false
+:label "RFT only if\nat AKI risk"
+:fontSize 13
+:fontWeight 500
+:italic false
+:nonce 1747700000000}}
+:block/updated-at 1747700000000}
+{:block/created-at 1747700000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box"
+:id "8a7b1000-0000-4000-8000-0000000050025"
+:parentId "8a7b1000-0000-4000-8000-000000000050"
+:point [756 318]
+:size [320 140]
+:index 15
+:scale [1 1]
+:scaleLevel "md"
+:stroke "#d69e2e"
+:fill "#fffaf0"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:borderRadius 4
+:noFill false
+:label "FBC + RFT\n(if HTN or renal disease)\nCoag tests if liver disease\nor on anticoagulants"
+:fontSize 13
+:fontWeight 500
+:italic false
+:nonce 1747700000000}}
+:block/updated-at 1747700000000}
+{:block/created-at 1747700000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box"
+:id "8a7b1000-0000-4000-8000-0000000050026"
+:parentId "8a7b1000-0000-4000-8000-000000000050"
+:point [80 472]
+:size [320 140]
+:index 16
+:scale [1 1]
+:scaleLevel "md"
+:stroke "#c53030"
+:fill "#fff5f5"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:borderRadius 4
+:noFill false
+:label "MAJOR / COMPLEX"
+:fontSize 14
+:fontWeight 600
+:italic false
+:nonce 1747700000000}}
+:block/updated-at 1747700000000}
+{:block/created-at 1747700000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box"
+:id "8a7b1000-0000-4000-8000-0000000050027"
+:parentId "8a7b1000-0000-4000-8000-000000000050"
+:point [418 472]
+:size [320 140]
+:index 17
+:scale [1 1]
+:scaleLevel "md"
+:stroke "#c53030"
+:fill "#fff5f5"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:borderRadius 4
+:noFill false
+:label "FBC + RFT\n(RFT only if AKI risk\nin ASA I)"
+:fontSize 13
+:fontWeight 500
+:italic false
+:nonce 1747700000000}}
+:block/updated-at 1747700000000}
+{:block/created-at 1747700000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box"
+:id "8a7b1000-0000-4000-8000-0000000050028"
+:parentId "8a7b1000-0000-4000-8000-000000000050"
+:point [756 472]
+:size [320 140]
+:index 18
+:scale [1 1]
+:scaleLevel "md"
+:stroke "#c53030"
+:fill "#fff5f5"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:borderRadius 4
+:noFill false
+:label "FBC + RFT\nConsider coag if chronic\nliver disease or on\nanticoagulants"
+:fontSize 13
+:fontWeight 500
+:italic false
+:nonce 1747700000000}}
+:block/updated-at 1747700000000}
+{:block/created-at 1747700000000
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:type "box"
+:id "8a7b1000-0000-4000-8000-0000000050099"
+:parentId "8a7b1000-0000-4000-8000-000000000050"
+:point [80 642]
+:size [996 90]
+:index 100
+:scale [1 1]
+:scaleLevel "md"
+:stroke "#805ad5"
+:fill "#faf5ff"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:borderRadius 4
+:noFill false
+:label "Baja's minimum investigations apply in EVERY patient regardless of ASA / surgery:\nHb + HCT + sickling · Urine (albumin, sugar, casts) · Stool (amoeba, worms) · FBS · BUE\nAdd CXR + ECG in: hypertensives and all patients > 40 years."
+:fontSize 12
+:fontWeight 500
+:italic false
+:nonce 1747700000000}}
+:block/updated-at 1747700000000}
+)
+:pages (
+{:block/uuid #uuid "8a7b1000-0000-4000-8000-000000000050"
+:block/properties
+{:ls-type :whiteboard-page
+:logseq.tldraw.page
+{:id "8a7b1000-0000-4000-8000-000000000050"
+:name "Pre-op tests by ASA and surgery"
+:bindings {}
+:nonce 0
+:assets []
+:shapes-index ("8a7b1000-0000-4000-8000-0000000050000" "8a7b1000-0000-4000-8000-0000000050010" "8a7b1000-0000-4000-8000-0000000050011" "8a7b1000-0000-4000-8000-0000000050012" "8a7b1000-0000-4000-8000-0000000050020" "8a7b1000-0000-4000-8000-0000000050021" "8a7b1000-0000-4000-8000-0000000050022" "8a7b1000-0000-4000-8000-0000000050023" "8a7b1000-0000-4000-8000-0000000050024" "8a7b1000-0000-4000-8000-0000000050025" "8a7b1000-0000-4000-8000-0000000050026" "8a7b1000-0000-4000-8000-0000000050027" "8a7b1000-0000-4000-8000-0000000050028" "8a7b1000-0000-4000-8000-0000000050099")}}
+:block/journal? false
+:block/updated-at 1747700000000
+:block/created-at 1747700000000
+:block/type "whiteboard"
+:block/name "Pre-op tests by ASA and surgery"
+:block/original-name "Pre-op tests by ASA and surgery"})}
+

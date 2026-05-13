@@ -1,0 +1,59 @@
+
+- # Pre-operative assessment
+	- ## History — key points to elicit
+		- **Previous illness** — pneumonia, asthma; aches/pains in rainy season (→ sickle-cell); breathlessness / palpitations / cough (→ cardiopulmonary); frequency / nocturia / polydipsia (→ DM / renal).
+		- **Previous operations and anaesthetic experience** — complications to avoid repeating.
+		- **Concurrent disease** — DM, chest, heart, myopathies.
+		- **Drug therapy** — see drug-specific list below.
+		- **Social** — alcohol (> 60 g ethanol / 5 drinks/day → 2–3× post-op morbidity; abstain 1 month if possible); tobacco (stop at least 2 weeks pre-op for secretion clearance).
+		- Source: Baja Ch. 15 pp. 223–224
+	- ### Drugs that affect anaesthesia / surgery
+		- **Long-term steroids** — adrenal suppression; needs replacement dose pre-op + post-op cover.
+		- **Adrenergic blockers** — effects may be potentiated under anaesthesia.
+		- **Tricyclic antidepressants** — anticholinergic; special care choosing agents.
+		- **MAOIs** — risk of hypertensive crisis.
+		- **OCPs** — moderate DVT risk; stop ~6 weeks before elective surgery.
+		- **Cytotoxics / radiotherapy** — impair immunity + wound healing; broad-spectrum antibiotic cover essential.
+		- Source: Baja Ch. 15 pp. 223–224
+	- ## Predictors of cardiac risk (Lee's RCRI — Perioperative Care lecture slide 22)
+		- History of **ischaemic heart disease**
+		- **Congestive heart failure**
+		- **Cerebrovascular disease** (stroke / TIA)
+		- **Diabetes requiring pre-op insulin**
+		- **Pre-op creatinine > 166 µmol/L**
+		- **High-risk type of surgery**
+		- Source: Perioperative Care lecture slide 22
+	- ## Baja's cardiac-risk stratification (Ch. 15 p. 224)
+		- **Major predictors** — recent MI, decompensated CCF, significant arrhythmia
+		- **Moderate predictors** — mild angina, previous MI, compensated CCF, diabetes mellitus
+		- **Minor predictors** — abnormal ECG, advanced age, uncontrolled hypertension, history of stroke
+		- **Functional capacity** — quantified in *metabolic units* (1 MET = O₂ consumption of resting 70 kg male, 3.5 mL/kg). Light ADLs = 1 MET; climbing stairs / running short distance ≥ 4 METs; football / tennis ≥ 10 METs.
+		- Source: Baja Ch. 15 p. 224
+	- ## Examination — system-by-system focus
+		- **Respiratory** — treat infections; postpone elective surgery 3–4 weeks after URTI. Bronchiectasis sputum < 1 cup/day before surgery.
+		- **Cardiovascular** — optimise hypertension, CCF, arrhythmias. Longer interval after MI = better outcome.
+		- **Urinary** — urinalysis; defer if ↑ urea / creatinine. Old men → assess prostate (retention risk).
+		- **GI** — extract carious/loose teeth; eradicate worms (esp. before bowel surgery — *roundworms can pass through anastomosis → leakage peritonitis*).
+		- **Haematology** — FBC + sickling/genotype. Hb < 10 g/dL needs investigation. *In SS and CRF, **transfuse as blood is lost rather than prophylactically** — they haemolyse transfused cells within 3 days.* Compensated HbSS with Hb > 6 g/dL → do not transfuse.
+		- **Hydration & nutrition** — see [[Pre-operative investigations]]; correct K⁺ deficit before anaesthesia (intracellular K⁺ replacement is slow → reversal-of-relaxant difficulties + arrhythmias).
+		- **Nervous system** — examine if spinal/epidural planned, or in neuromuscular disease.
+		- **Psychological** — explanation, reassurance, sedation night-before (benzodiazepine).
+		- Source: Baja Ch. 15 pp. 223–226
+	- ## Patient optimisation (Perioperative Care lecture slide 17)
+		- Comorbidities, nutrition, exercise, smoking, drinking, multidisciplinary team input.
+		- Source: Perioperative Care lecture slide 17
+	- ## Informed consent (Perioperative Care lecture slide 18)
+		- Discuss: nature of disease, treatment options, pros/cons, costs, complications, outcomes. Patient must understand, ask questions, make an informed choice.
+		- Source: Perioperative Care lecture slide 18
+	- ## Fasting rules
+		- **Adults**: food 6 h, clear fluids up to 2–3 h pre-op
+		- **Children > 2 y**: food 6 h, clear fluids up to 2 h pre-op
+		- **Children < 2 y**: feed normally; last feed 4 h pre-op; clear fluids up to 2 h pre-op
+		- *In GI operations → NG tube to decompress stomach.*
+		- Source: Baja Ch. 15 p. 226
+	- ## Other pre-op measures
+		- **Obstructive jaundice** → IM Vitamin K × 4–5 days; 3.5 L fluid 24 h before surgery; antibiotic prophylaxis.
+		- **Colonic surgery** → bowel preparation.
+		- **Steroid users (within 3 months)** → replacement dose pre-op + post-op cover.
+		- Source: Baja Ch. 15 p. 226
+	- Related: [[Perioperative care]], [[ASA physical status classification]], [[Pre-operative investigations]], [[History Taking]]

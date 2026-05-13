@@ -1,0 +1,16 @@
+
+- # ASA physical status classification
+	- The **American Society of Anesthesiologists** (ASA) grading system — used to stratify anaesthetic and surgical risk.
+		- *Higher grade = higher risk.*
+		- Source: Perioperative Care lecture slide 13; Baja Ch. 15 p. 226
+	- | Grade | Definition | Examples |
+	- | --- | --- | --- |
+	- | **ASA I** | Normal, fit, healthy patient | — |
+	- | **ASA II** | Mild systemic disease (no functional limit) | HbAS sickling trait; treated hypertension; stable diabetes |
+	- | **ASA III** | Severe systemic disease, **limits activity but not incapacitating** | Gastric outlet obstruction; ileus; HbSS / SC; typhoid perforation; unstable diabetes / hypertension; GI bleeding |
+	- | **ASA IV** | Incapacitating systemic disease, **constant threat to life** | Respiratory obstruction; pharyngeal abscess; septic shock; uraemia |
+	- | **ASA V** | Moribund — not expected to live 24 h with or without surgery | — |
+	- | **ASA VI** | Brain-dead patient for organ harvesting | — |
+	- **Suffix "E"** = emergency (e.g. *ASA IE*). Risk is higher in emergencies.
+		- Source: Baja Ch. 15 p. 226
+	- Related: [[Perioperative care]], [[Pre-operative assessment]], [[Pre-operative investigations]]
